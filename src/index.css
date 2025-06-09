@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@theme{
+  --pri: #ff0099, 
+} 
+
+
+/* @media (min-width:300px){
+   #headtag{
+   
+  } 
+  #foot{
+    margin-top:630px;
+  }
+} */
