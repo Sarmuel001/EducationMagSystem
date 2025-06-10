@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes, FaHome, FaPen, FaUpload, FaUserPlus, FaKey } from "react-icons/fa";
-import LoginPage from "../../modules/login";
+// import LoginPage from "../../modules/login";
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
     <div >
       <div className="bg-white shadow-md py-9 px-6 flex justify-between items-center lg:justify-center lg:bg-white fixed w-full left-0">
-        <h2 id='headtag' className="text-2xl font-bold lg:text-center  text-green-700 ">Examination Information Mangement System (EIMS)</h2>
+        <h2 id='headtag' className="text-2xl font-bold lg:text-center  text-green-700 ">Digital Examinations Portal</h2>
         {/* Mobile Toggle Button */}
         <button
           className=" lg:hidden text-black absolute right-6"

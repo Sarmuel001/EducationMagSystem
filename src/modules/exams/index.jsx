@@ -28,7 +28,7 @@ const ExamPage = () => {
 useEffect(() => {
   if (!username) {
     toast.warning("Please log in to start the exam.", { position: "top-center" });
-    navigate("/login"); // ✅ Update this route if your login route is different
+    navigate("/login"); 
   }
 }, []);
 
