@@ -8,6 +8,12 @@
           "question": "What is 5 + 3?",
           "options": ["6", "7", "8", "9"],
           "answer": "8"
+        },
+        {
+          "id": 2,
+          "question": "What is 15 + 3?",
+          "options": ["6", "7", "8", "18"],
+          "answer": "18"
         }
       ],
       "English": [
