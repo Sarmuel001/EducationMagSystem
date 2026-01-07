@@ -1195,7 +1195,6 @@
       "Mathematics": [
         {
           "id": 1,
-<<<<<<< HEAD
           "question": "Simplify: 2x + 3x - 5",
           "options": ["5x - 5", "6x - 5", "5x + 5", "6x + 5"],
           "answer": "5x - 5"
@@ -1283,23 +1282,6 @@
           "question": "Simplify: (x + 2)(x - 3)",
           "options": ["x² - x - 6", "x² - x + 6", "x² + x - 6", "x² + x + 6"],
           "answer": "x² - x - 6"
-=======
-          "question": "What is 5 + 3?",
-          "options": ["6", "7", "8", "9"],
-          "answer": "8"
-        },
-        {
-          "id": 2,
-          "question": "What is 15 + 3?",
-          "options": ["6", "7", "8", "18"],
-          "answer": "18"
-        },
-        {
-          "id": 3,
-          "question": "What is 15 + 15?",
-          "options": ["30", "7", "8", "18"],
-          "answer": "30"
->>>>>>> cbae0f350d5e623d7180a82611c0d901439f5ada
         }
       ],
      "Government": [
