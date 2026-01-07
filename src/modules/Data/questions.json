@@ -2,22 +2,1591 @@
   {
     "year": "2023",
     "subjects": {
+      "History": [
+        {
+          "id": 1,
+          "question": "Which of the following is not a correct definition of history? History is:",
+          "options": [ 
+            "the study of only dates and dead people.",
+            "a dialogue between the past and the present.",
+            "the narration of what happened and why they happened.",
+            "the record of what actually happened in the past."
+          ],
+          "answer": "the study of only dates and dead people."
+        },
+        {
+          "id": 2,
+          "question": "The study of West African history helps students to develop:",
+          "options": [
+            "emotional judgment of issues.",
+            "biased analytical skills in relation to issues.",
+            "sound critical and analytical skills on issues.",
+            "debating skills on current issues only."
+          ],
+          "answer": "sound critical and analytical skills on issues."
+        },
+        {
+          "id": 3,
+          "question": "All the following are relevance of the study of West African history except:",
+          "options": [
+            "to discover her hidden past.",
+            "to promote tolerance and respect for others.",
+            "to correct erroneous misconceptions.",
+            "to propel the notion of white superiority."
+          ],
+          "answer": "to propel the notion of white superiority."
+        },
+        {
+          "id": 4,
+          "question": "All the following are related to archaeology except:",
+          "options": [
+            "site.",
+            "documents.",
+            "dating.",
+            "excavation."
+          ],
+          "answer": "documents."
+        },
+        {
+          "id": 5,
+          "question": "The trans-Saharan trade routes were controlled by the:",
+          "options": [
+            "Moors.",
+            "Arabs.",
+            "Soninke.",
+            "Tuareg."
+          ],
+          "answer": "Arabs."
+        },
+        {
+          "id": 6,
+          "question": "During the trans-Saharan trade, the most important commodities imported into the Forest belt from the Sudan were:",
+          "options": [
+            "iron wares and metals.",
+            "leather goods and dyed cloth.",
+            "gold and textiles.",
+            "livestock and leather goods."
+          ],
+          "answer": "leather goods and dyed cloth."
+        },
+        {
+          "id": 7,
+          "question": "All these were problems encountered by the trans-Saharan traders except:",
+          "options": [
+            "attack from wild animals.",
+            "shortage of food and water.",
+            "attack from the Europeans.",
+            "harsh weather conditions."
+          ],
+          "answer": "attack from the Europeans."
+        },
+        {
+          "id": 8,
+          "question": "Socially, the trans-Saharan trade promoted:",
+          "options": [
+            "urbanization.",
+            "commerce.",
+            "exploitation.",
+            "inequality."
+          ],
+          "answer": "urbanization."
+        },
+        {
+          "id": 9,
+          "question": "One social impact of the trans-Saharan trade was the:",
+          "options": [
+            "development of industries.",
+            "importation of goods.",
+            "introduction of cash crops.",
+            "spread of Islam."
+          ],
+          "answer": "spread of Islam."
+        },
+        {
+          "id": 10,
+          "question": "The spread of Islam in West Africa was pioneered by the:",
+          "options": [
+            "Arab kings.",
+            "Western Sudanese traders.",
+            "Hausa kings.",
+            "Kanuri people."
+          ],
+          "answer": "Western Sudanese traders."
+        },
+
+        {
+          "id": 11,
+          "question": "Which of the following empires was founded by Sundiata Keita?",
+          "options": ["Mali Empire", "Songhai Empire", "Kanem-Bornu Empire", "Ghana Empire"],
+          "answer": "Mali Empire"
+        },
+        {
+          "id": 12,
+          "question": "The Almoravids invaded ancient Ghana in the year:",
+          "options": ["1076", "1464", "1591", "1897"],
+          "answer": "1076"
+        },
+        {
+          "id": 13,
+          "question": "The capital of the old Oyo Empire was:",
+          "options": ["Katsina", "Ilorin", "Oyo-Ile", "Ibadan"],
+          "answer": "Oyo-Ile"
+        },
+        {
+          "id": 14,
+          "question": "The king of Benin was known as the:",
+          "options": ["Alaafin", "Oba", "Ooni", "Shehu"],
+          "answer": "Oba"
+        },
+        {
+          "id": 15,
+          "question": "The following are reasons for the decline of Old Ghana except:",
+          "options": ["Almoravid invasion", "Overpopulation", "Civil wars", "Loss of trade monopoly"],
+          "answer": "Overpopulation"
+        },
+        {
+          "id": 16,
+          "question": "Who was the first European nation to arrive on the West African coast?",
+          "options": ["Britain", "Portugal", "France", "Germany"],
+          "answer": "Portugal"
+        },
+        {
+          "id": 17,
+          "question": "The major commodity Europeans sought in West Africa before the slave trade was:",
+          "options": ["Gold", "Palm oil", "Groundnuts", "Cotton"],
+          "answer": "Gold"
+        },
+        {
+          "id": 18,
+          "question": "The abolition of the slave trade was led by:",
+          "options": ["Samori Toure", "William Wilberforce", "Mungo Park", "Flora Shaw"],
+          "answer": "William Wilberforce"
+        },
+        {
+          "id": 19,
+          "question": "Which West African empire reached its peak during the reign of Mansa Musa?",
+          "options": ["Ghana Empire", "Kanem-Bornu Empire", "Mali Empire", "Oyo Empire"],
+          "answer": "Mali Empire"
+        },
+        {
+          "id": 20,
+          "question": "The Sokoto Caliphate was founded by:",
+          "options": ["Othman dan Fodio", "Muhammad Bello", "Ahmadu Bello", "Sultan Attahiru"],
+          "answer": "Othman dan Fodio"
+        },
+        {
+          "id": 21,
+          "question": "The Yoruba wars of the 19th century were caused mainly by:",
+          "options": ["Religion", "Succession disputes", "Slave trade", "Taxation"],
+          "answer": "Succession disputes"
+        },
+        {
+          "id": 22,
+          "question": "The British conquered Benin in:",
+          "options": ["1897", "1804", "1914", "1851"],
+          "answer": "1897"
+        },
+        {
+          "id": 23,
+          "question": "Indirect rule in Northern Nigeria was successful because:",
+          "options": [
+            "the people hated the British",
+            "the region already had a centralized system",
+            "the British used soldiers",
+            "there were no traditional rulers"
+          ],
+          "answer": "the region already had a centralized system"
+        },
+        {
+          "id": 24,
+          "question": "The Royal Niger Company was headed by:",
+          "options": ["George Goldie", "Lord Lugard", "Mungo Park", "John Hawkins"],
+          "answer": "George Goldie"
+        },
+        {
+          "id": 25,
+          "question": "Nigeria became a British protectorate in:",
+          "options": ["1849", "1885", "1914", "1960"],
+          "answer": "1885"
+        },
+        {
+          "id": 26,
+          "question": "The first Governor-General of Nigeria was:",
+          "options": ["Nnamdi Azikiwe", "Lord Lugard", "Hugh Clifford", "Obafemi Awolowo"],
+          "answer": "Lord Lugard"
+        },
+        {
+          "id": 27,
+          "question": "The Clifford Constitution was introduced in:",
+          "options": ["1922", "1946", "1951", "1939"],
+          "answer": "1922"
+        },
+        {
+          "id": 28,
+          "question": "The 1946 constitution was also known as the:",
+          "options": ["Richards Constitution", "Macpherson Constitution", "Lyttleton Constitution", "Independence Constitution"],
+          "answer": "Richards Constitution"
+        },
+        {
+          "id": 29,
+          "question": "The nationalist who founded the NCNC was:",
+          "options": ["Nnamdi Azikiwe", "Obafemi Awolowo", "Herbert Macaulay", "Ahmadu Bello"],
+          "answer": "Herbert Macaulay"
+        },
+        {
+          "id": 30,
+          "question": "Nigeria gained independence in:",
+          "options": ["1951", "1954", "1960", "1963"],
+          "answer": "1960"
+        },
+        {
+          "id": 31,
+          "question": "Which of the following was a cause of the Nigerian Civil War?",
+          "options": [
+            "Excess crude oil revenue",
+            "Creation of states",
+            "Ethnic tension and political crisis",
+            "Foreign intervention"
+          ],
+          "answer": "Ethnic tension and political crisis"
+        },
+        {
+          "id": 32,
+          "question": "The Nigerian Civil War ended in:",
+          "options": ["1965", "1967", "1970", "1976"],
+          "answer": "1970"
+        },
+        {
+          "id": 33,
+          "question": "The Berlin Conference that partitioned Africa was held in:",
+          "options": ["1870", "1884–1885", "1900", "1914"],
+          "answer": "1884–1885"
+        },
+        {
+          "id": 34,
+          "question": "The purpose of the Berlin Conference was to:",
+          "options": [
+            "Promote African unity",
+            "Divide Africa among European powers",
+            "End the trans-Saharan trade",
+            "Unify African cultures"
+          ],
+          "answer": "Divide Africa among European powers"
+        },
+        {
+          "id": 35,
+          "question": "The kingdom famous for bronze works was:",
+          "options": ["Oyo", "Benin", "Nri", "Bornu"],
+          "answer": "Benin"
+        },
+        {
+          "id": 36,
+          "question": "The Kanem-Bornu Empire reached its height under:",
+          "options": ["Idris Alooma", "Sarkin Daura", "Mai Idris", "Askia the Great"],
+          "answer": "Idris Alooma"
+        },
+        {
+          "id": 37,
+          "question": "The first Europeans to reach Benin were the:",
+          "options": ["British", "Portuguese", "French", "Germans"],
+          "answer": "Portuguese"
+        },
+        {
+          "id": 38,
+          "question": "Christianity was introduced into Nigeria mainly by:",
+          "options": ["Explorers", "Missionaries", "Nationalists", "Traders"],
+          "answer": "Missionaries"
+        },
+        {
+          "id": 39,
+          "question": "A major effect of colonial rule in West Africa was:",
+          "options": [
+            "Preservation of indigenous industries",
+            "Introduction of Western education",
+            "Promotion of traditional religions",
+            "Abolition of all taxes"
+          ],
+          "answer": "Introduction of Western education"
+        },
+        {
+          "id": 40,
+          "question": "Which pre-colonial state had the strongest cavalry?",
+          "options": ["Benin", "Kanem-Bornu", "Oyo", "Nri"],
+          "answer": "Kanem-Bornu"
+        },
+        {
+          "id": 41,
+          "question": "The first newspaper in Nigeria was:",
+          "options": ["West African Pilot", "Daily Times", "Lagos Weekly Record", "Iwe Irohin"],
+          "answer": "Iwe Irohin"
+        },
+        {
+          "id": 42,
+          "question": "The Macpherson Constitution was introduced in:",
+          "options": ["1922", "1946", "1951", "1954"],
+          "answer": "1951"
+        },
+        {
+          "id": 43,
+          "question": "Which empire collapsed as a result of the 1591 Moroccan invasion?",
+          "options": ["Ghana", "Mali", "Songhai", "Kanem-Bornu"],
+          "answer": "Songhai"
+        },
+        {
+          "id": 44,
+          "question": "The capital of the Songhai Empire was:",
+          "options": ["Kano", "Gao", "Timbuktu", "Djenne"],
+          "answer": "Gao"
+        },
+        {
+          "id": 45,
+          "question": "The Fante Confederation was formed in:",
+          "options": ["1868", "1900", "1836", "1897"],
+          "answer": "1868"
+        },
+        {
+          "id": 46,
+          "question": "The first military coup in Nigeria occurred in:",
+          "options": ["1976", "1966", "1983", "1960"],
+          "answer": "1966"
+        },
+        {
+          "id": 47,
+          "question": "The last governor-general of Nigeria was:",
+          "options": ["Nnamdi Azikiwe", "Obafemi Awolowo", "Sir James Robertson", "Ahmadu Bello"],
+          "answer": "Nnamdi Azikiwe"
+        },
+        {
+          "id": 48,
+          "question": "The Lagos Colony was annexed by the British in:",
+          "options": ["1804", "1861", "1885", "1914"],
+          "answer": "1861"
+        },
+        {
+          "id": 49,
+          "question": "The Asante Empire is located in present-day:",
+          "options": ["Ghana", "Nigeria", "Mali", "Senegal"],
+          "answer": "Ghana"
+        },
+        {
+          "id": 50,
+          "question": "The Aba Women’s Riot occurred in:",
+          "options": ["1922", "1945", "1929", "1953"],
+          "answer": "1929"
+        },
+        {
+          "id": 51,
+          "question": "The primary aim of Lord Lugard’s amalgamation was to:",
+          "options": ["Promote education", "Reduce administrative cost", "Stop the slave trade", "Create ethnic unity"],
+          "answer": "Reduce administrative cost"
+        },
+        {
+          "id": 52,
+          "question": "The first executive president of Nigeria was:",
+          "options": ["Shehu Shagari", "Nnamdi Azikiwe", "Olusegun Obasanjo", "Goodluck Jonathan"],
+          "answer": "Shehu Shagari"
+        },
+        {
+          "id": 53,
+          "question": "The first military Head of State in Nigeria was:",
+          "options": ["Yakubu Gowon", "Aguiyi Ironsi", "Murtala Mohammed", "Obasanjo"],
+          "answer": "Aguiyi Ironsi"
+        },
+        {
+          "id": 54,
+          "question": "A major factor that attracted Europeans to West Africa was:",
+          "options": ["Agriculture", "Mineral resources", "Climate", "Religion"],
+          "answer": "Mineral resources"
+        },
+        {
+          "id": 55,
+          "question": "Which of the following African leaders resisted European rule?",
+          "options": ["Jaja of Opobo", "Cecil Rhodes", "David Livingstone", "John Hawkins"],
+          "answer": "Jaja of Opobo"
+        },
+        {
+          "id": 56,
+          "question": "The 'Scramble for Africa' refers to:",
+          "options": [
+            "The fight among African tribes",
+            "Rapid colonization by Europeans",
+            "Religious revival in Africa",
+            "Competition for trade among Africans"
+          ],
+          "answer": "Rapid colonization by Europeans"
+        },
+        {
+          "id": 57,
+          "question": "The first political party in Nigeria was the:",
+          "options": ["NCNC", "NYM", "NDP", "AG"],
+          "answer": "NDP"
+        },
+        {
+          "id": 58,
+          "question": "Which ethnic group founded the Kanem-Bornu Empire?",
+          "options": ["Yoruba", "Hausa", "Kanuri", "Igbo"],
+          "answer": "Kanuri"
+        },
+        {
+          "id": 59,
+          "question": "The famous Fulani Jihad occurred in:",
+          "options": ["1804", "1885", "1700", "1591"],
+          "answer": "1804"
+        },
+        {
+          "id": 60,
+          "question": "The 1954 constitution introduced:",
+          "options": ["Federalism", "Unitarism", "Regional police", "Sovereignty"],
+          "answer": "Federalism"
+        }
+      ],
+  
+      "Literature_in_English": [
+        {
+          "id": 1,
+          "question": "Who wrote 'Things Fall Apart'?",
+          "options": ["Chinua Achebe", "Wole Soyinka", "Buchi Emecheta", "Ngugi wa Thiong'o"],
+          "answer": "Chinua Achebe"
+        },
+        {
+          "id": 2,
+          "question": "What is the main theme of 'Things Fall Apart'?",
+          "options": ["Colonialism and its impact", "Love and friendship", "Science and technology", "Adventure and exploration"],
+          "answer": "Colonialism and its impact"
+        },
+        {
+          "id": 3,
+          "question": "In 'The Lion and the Jewel', who is Sidi?",
+          "options": ["A young village girl", "A wealthy trader", "The village chief", "A teacher"],
+          "answer": "A young village girl"
+        },
+        {
+          "id": 4,
+          "question": "What is the occupation of Okonkwo in 'Things Fall Apart'?",
+          "options": ["Farmer and warrior", "Trader", "Priest", "Teacher"],
+          "answer": "Farmer and warrior"
+        },
+        {
+          "id": 5,
+          "question": "Who wrote the play 'Death and the King’s Horseman'?",
+          "options": ["Wole Soyinka", "Chinua Achebe", "Ngugi wa Thiong'o", "Ama Ata Aidoo"],
+          "answer": "Wole Soyinka"
+        },
+        {
+          "id": 6,
+          "question": "Which poem is written by Christopher Okigbo?",
+          "options": ["Labyrinths", "Song of Lawino", "The African Child", "The Last Burial"],
+          "answer": "Labyrinths"
+        },
+        {
+          "id": 7,
+          "question": "What is the main theme of Wole Soyinka’s 'The Lion and the Jewel'?",
+          "options": ["Tradition versus modernity", "Colonial oppression", "Migration", "Economic inequality"],
+          "answer": "Tradition versus modernity"
+        },
+        {
+          "id": 8,
+          "question": "In 'Arrow of God', Ezeulu is the chief priest of which deity?",
+          "options": ["Ulu", "Chukwu", "Odinani", "Olokun"],
+          "answer": "Ulu"
+        },
+        {
+          "id": 9,
+          "question": "Who wrote the novel 'No Longer at Ease'?",
+          "options": ["Chinua Achebe", "Buchi Emecheta", "Ngugi wa Thiong'o", "Wole Soyinka"],
+          "answer": "Chinua Achebe"
+        },
+        {
+          "id": 10,
+          "question": "Which of the following is a theme of 'No Longer at Ease'?",
+          "options": ["Corruption and moral decay", "Adventure and exploration", "Traditional rites", "Love and marriage"],
+          "answer": "Corruption and moral decay"
+        },
+        {
+          "id": 11,
+          "question": "Who is the author of 'The Joys of Motherhood'?",
+          "options": ["Buchi Emecheta", "Chinua Achebe", "Ama Ata Aidoo", "Cyprian Ekwensi"],
+          "answer": "Buchi Emecheta"
+        },
+        {
+          "id": 12,
+          "question": "In 'The Joys of Motherhood', the main character is:",
+          "options": ["Nnu Ego", "Sidi", "Ezeulu", "Okonkwo"],
+          "answer": "Nnu Ego"
+        },
+        {
+          "id": 13,
+          "question": "Who wrote the novel 'Petals of Blood'?",
+          "options": ["Ngugi wa Thiong'o", "Chinua Achebe", "Wole Soyinka", "Ama Ata Aidoo"],
+          "answer": "Ngugi wa Thiong'o"
+        },
+        {
+          "id": 14,
+          "question": "In 'Petals of Blood', the main theme is:",
+          "options": ["Exploitation and social injustice", "Colonial adventures", "Traditional rites", "Love and marriage"],
+          "answer": "Exploitation and social injustice"
+        },
+        {
+          "id": 15,
+          "question": "Who is the author of the play 'The Trials of Brother Jero'?",
+          "options": ["Wole Soyinka", "Chinua Achebe", "Ama Ata Aidoo", "Buchi Emecheta"],
+          "answer": "Wole Soyinka"
+        },
+        {
+          "id": 16,
+          "question": "In 'Death and the King’s Horseman', the King’s Horseman is named:",
+          "options": ["Elesin", "Okonkwo", "Sidi", "Nwoye"],
+          "answer": "Elesin"
+        },
+        {
+          "id": 17,
+          "question": "The poem 'The African Child' was written by:",
+          "options": ["Judith Ortiz Cofer", "John Pepper Clark", "Christopher Okigbo", "Wole Soyinka"],
+          "answer": "John Pepper Clark"
+        },
+        {
+          "id": 18,
+          "question": "In 'Things Fall Apart', the egwugwu are:",
+          "options": ["Spirit masqueraders", "Village farmers", "European traders", "Priests of Ulu"],
+          "answer": "Spirit masqueraders"
+        },
+        {
+          "id": 19,
+          "question": "The author of 'Song of Lawino' is:",
+          "options": ["Ngugi wa Thiong'o", "Ama Ata Aidoo", "Okot p’Bitek", "Wole Soyinka"],
+          "answer": "Okot p’Bitek"
+        },
+        {
+          "id": 20,
+          "question": "The central theme of 'Song of Lawino' is:",
+          "options": ["Cultural conflict and tradition", "Colonial conquest", "Love and adventure", "Economic inequality"],
+          "answer": "Cultural conflict and tradition"
+        },
+        {
+          "id": 21,
+          "question": "Who wrote 'A Man of the People'?",
+          "options": ["Chinua Achebe", "Ngugi wa Thiong'o", "Wole Soyinka", "Chukwuemeka Ike"],
+          "answer": "Chinua Achebe"
+        },
+        {
+          "id": 22,
+          "question": "In 'A Man of the People', the central theme is:",
+          "options": ["Political corruption", "Love and betrayal", "Colonialism", "Traditional rites"],
+          "answer": "Political corruption"
+        },
+        {
+          "id": 23,
+          "question": "Who wrote the play 'The Strong Breed'?",
+          "options": ["Wole Soyinka", "Chinua Achebe", "Ama Ata Aidoo", "Ngugi wa Thiong'o"],
+          "answer": "Wole Soyinka"
+        },
+        {
+          "id": 24,
+          "question": "In 'The Strong Breed', the protagonist is:",
+          "options": ["Eman", "Okonkwo", "Elesin", "Nnu Ego"],
+          "answer": "Eman"
+        },
+        {
+          "id": 25,
+          "question": "The author of 'The Last Burial' is:",
+          "options": ["Buchi Emecheta", "Chukwuemeka Ike", "Cyprian Ekwensi", "Ama Ata Aidoo"],
+          "answer": "Cyprian Ekwensi"
+        },
+        {
+          "id": 26,
+          "question": "Who wrote 'The Voter'?",
+          "options": ["Chinua Achebe", "Buchi Emecheta", "Cyprian Ekwensi", "Ngugi wa Thiong'o"],
+          "answer": "Cyprian Ekwensi"
+        },
+        {
+          "id": 27,
+          "question": "Who is the author of 'Girls at War'?",
+          "options": ["Chinua Achebe", "Ama Ata Aidoo", "Buchi Emecheta", "Cyprian Ekwensi"],
+          "answer": "Chinua Achebe"
+        },
+        {
+          "id": 28,
+          "question": "Who wrote 'The Palm-Wine Drinkard'?",
+          "options": ["Amos Tutuola", "Chinua Achebe", "Ngugi wa Thiong'o", "Wole Soyinka"],
+          "answer": "Amos Tutuola"
+        },
+        {
+          "id": 29,
+          "question": "In 'The Palm-Wine Drinkard', the story mainly revolves around:",
+          "options": ["A man searching for his dead palm-wine tapster", "A village war", "Colonial administration", "A tragic love story"],
+          "answer": "A man searching for his dead palm-wine tapster"
+        },
+        {
+          "id": 30,
+          "question": "Who wrote the poem 'Labyrinths'?",
+          "options": ["Christopher Okigbo", "John Pepper Clark", "Wole Soyinka", "Chinua Achebe"],
+          "answer": "Christopher Okigbo"
+        },
+        {
+          "id": 31,
+          "question": "The poem 'Jagua Nana' was written by:",
+          "options": ["Cyprian Ekwensi", "Chinua Achebe", "Wole Soyinka", "Ngugi wa Thiong'o"],
+          "answer": "Cyprian Ekwensi"
+        },
+        {
+          "id": 32,
+          "question": "Who wrote 'Song of Lawino'?",
+          "options": ["Okot p’Bitek", "Wole Soyinka", "Chinua Achebe", "Ama Ata Aidoo"],
+          "answer": "Okot p’Bitek"
+        },
+        {
+          "id": 33,
+          "question": "In 'Things Fall Apart', who is Nwoye?",
+          "options": ["Okonkwo's son", "The village priest", "A European trader", "A friend of Okonkwo"],
+          "answer": "Okonkwo's son"
+        },
+        {
+          "id": 34,
+          "question": "In 'Arrow of God', the main conflict is between:",
+          "options": ["Tradition and colonial government", "Two villages", "Traders and farmers", "Priests and kings"],
+          "answer": "Tradition and colonial government"
+        },
+        {
+          "id": 35,
+          "question": "Who wrote 'Our Husband Has Gone Mad Again'?",
+          "options": ["Ama Ata Aidoo", "Chinua Achebe", "Buchi Emecheta", "Ngugi wa Thiong'o"],
+          "answer": "Ama Ata Aidoo"
+        },
+        {
+          "id": 36,
+          "question": "In 'Our Husband Has Gone Mad Again', the central theme is:",
+          "options": ["Political satire", "Colonial conquest", "Love and marriage", "Spiritual rites"],
+          "answer": "Political satire"
+        },
+        {
+          "id": 37,
+          "question": "Who wrote 'No Sweetness Here'?",
+          "options": ["Ama Ata Aidoo", "Chinua Achebe", "Buchi Emecheta", "Cyprian Ekwensi"],
+          "answer": "Ama Ata Aidoo"
+        },
+        {
+          "id": 38,
+          "question": "In 'The Lion and the Jewel', who is Baroka?",
+          "options": ["The village chief", "A young villager", "A European trader", "The schoolteacher"],
+          "answer": "The village chief"
+        },
+        {
+          "id": 39,
+          "question": "The author of 'The Concubine' is:",
+          "options": ["Elechi Amadi", "Chinua Achebe", "Buchi Emecheta", "Ngugi wa Thiong'o"],
+          "answer": "Elechi Amadi"
+        },
+        {
+          "id": 40,
+          "question": "In 'The Concubine', the main theme is:",
+          "options": ["Tradition and superstition", "Colonialism", "Political corruption", "Economic inequality"],
+          "answer": "Tradition and superstition"
+        },
+        {
+          "id": 41,
+          "question": "Who wrote 'This House Has Fallen'?",
+          "options": ["Chinua Achebe", "Buchi Emecheta", "Wole Soyinka", "Ngugi wa Thiong'o"],
+          "answer": "Chinua Achebe"
+        },
+        {
+          "id": 42,
+          "question": "In 'Things Fall Apart', what causes Okonkwo’s downfall?",
+          "options": ["Clash with colonial authorities", "A natural disaster", "A trading dispute", "A rival tribe"],
+          "answer": "Clash with colonial authorities"
+        },
+        {
+          "id": 43,
+          "question": "Who wrote the novel 'Second-Class Citizen'?",
+          "options": ["Buchi Emecheta", "Chinua Achebe", "Ama Ata Aidoo", "Ngugi wa Thiong'o"],
+          "answer": "Buchi Emecheta"
+        },
+        {
+          "id": 44,
+          "question": "Who wrote 'The Bride Price'?",
+          "options": ["Ama Ata Aidoo", "Chinua Achebe", "Buchi Emecheta", "Cyprian Ekwensi"],
+          "answer": "Ama Ata Aidoo"
+        },
+        {
+          "id": 45,
+          "question": "In 'No Longer at Ease', the protagonist is:",
+          "options": ["Obi Okonkwo", "Okonkwo", "Ezeulu", "Elesin"],
+          "answer": "Obi Okonkwo"
+        },
+        {
+          "id": 46,
+          "question": "Who is the author of 'The Chike and the River'?",
+          "options": ["Buchi Emecheta", "Chinua Achebe", "Ngugi wa Thiong'o", "Wole Soyinka"],
+          "answer": "Buchi Emecheta"
+        },
+        {
+          "id": 47,
+          "question": "In 'Arrow of God', who is Ezeulu’s son?",
+          "options": ["Obika", "Nwoye", "Elesin", "Okonkwo"],
+          "answer": "Obika"
+        },
+        {
+          "id": 48,
+          "question": "Who wrote 'The Palm-Wine Drinkard'?",
+          "options": ["Amos Tutuola", "Chinua Achebe", "Ngugi wa Thiong'o", "Wole Soyinka"],
+          "answer": "Amos Tutuola"
+        },
+        {
+          "id": 49,
+          "question": "In 'Song of Lawino', Lawino criticizes her husband for:",
+          "options": ["Rejecting African culture", "Being poor", "Being lazy", "Fighting in wars"],
+          "answer": "Rejecting African culture"
+        },
+        {
+          "id": 50,
+          "question": "The author of 'The Dancers' is:",
+          "options": ["Ama Ata Aidoo", "Ngugi wa Thiong'o", "Chinua Achebe", "Wole Soyinka"],
+          "answer": "Ama Ata Aidoo"
+        },
+        {
+          "id": 51,
+          "question": "Who wrote 'The Slave Girl'?",
+          "options": ["Buchi Emecheta", "Chinua Achebe", "Ngugi wa Thiong'o", "Ama Ata Aidoo"],
+          "answer": "Buchi Emecheta"
+        },
+        {
+          "id": 52,
+          "question": "Who wrote 'Kongi’s Harvest'?",
+          "options": ["Wole Soyinka", "Chinua Achebe", "Ama Ata Aidoo", "Ngugi wa Thiong'o"],
+          "answer": "Wole Soyinka"
+        },
+        {
+          "id": 53,
+          "question": "In 'Death and the King’s Horseman', the ritual failed because:",
+          "options": ["Elesin was prevented from completing it", "The village rejected it", "A natural disaster occurred", "The king died"],
+          "answer": "Elesin was prevented from completing it"
+        },
+        {
+          "id": 54,
+          "question": "Who wrote 'The River Between'?",
+          "options": ["Ngugi wa Thiong'o", "Chinua Achebe", "Ama Ata Aidoo", "Buchi Emecheta"],
+          "answer": "Ngugi wa Thiong'o"
+        },
+        {
+          "id": 55,
+          "question": "In 'The River Between', the main conflict is between:",
+          "options": ["Two communities with differing beliefs", "Two families in love", "Colonialists and traders", "Two schools"],
+          "answer": "Two communities with differing beliefs"
+        },
+        {
+          "id": 56,
+          "question": "Who is the author of 'Changes: A Love Story'?",
+          "options": ["Buchi Emecheta", "Ama Ata Aidoo", "Chinua Achebe", "Ngugi wa Thiong'o"],
+          "answer": "Buchi Emecheta"
+        },
+        {
+          "id": 57,
+          "question": "Who wrote the play 'The Strong Breed'?",
+          "options": ["Wole Soyinka", "Chinua Achebe", "Ama Ata Aidoo", "Ngugi wa Thiong'o"],
+          "answer": "Wole Soyinka"
+        },
+        {
+          "id": 58,
+          "question": "In 'The Concubine', Ihuoma is:",
+          "options": ["A beautiful widow", "A trader", "A priestess", "A queen"],
+          "answer": "A beautiful widow"
+        },
+        {
+          "id": 59,
+          "question": "Who wrote 'Destiny'?",
+          "options": ["Cyprian Ekwensi", "Chinua Achebe", "Ngugi wa Thiong'o", "Wole Soyinka"],
+          "answer": "Cyprian Ekwensi"
+        },
+        {
+          "id": 60,
+          "question": "In 'The Lion and the Jewel', Baroka’s main goal is to:",
+          "options": ["Marry Sidi", "Lead the villagers to war", "Introduce Western education", "Sell village land"],
+          "answer": "Marry Sidi"
+  }
+      ],
+
+      "English_Language": [
+        {
+          "id": 1,
+          "question": "Choose the correctly punctuated sentence:",
+          "options": [
+            "I went to the market but, I forgot to buy eggs.",
+            "I went to the market, but I forgot to buy eggs.",
+            "I went to the market but I, forgot to buy eggs.",
+            "I went to the market but I forgot, to buy eggs."
+          ],
+          "answer": "I went to the market, but I forgot to buy eggs."
+        },
+        {
+          "id": 2,
+          "question": "Identify the correct synonym for 'happy':",
+          "options": ["Sad", "Elated", "Angry", "Tired"],
+          "answer": "Elated"
+        },
+        {
+          "id": 3,
+          "question": "Choose the correct passive voice form: 'The chef cooks the meal.'",
+          "options": [
+            "The meal is cooked by the chef.",
+            "The meal was cook by the chef.",
+            "The chef is cooked by the meal.",
+            "The meal cooked the chef."
+          ],
+          "answer": "The meal is cooked by the chef."
+        },
+        {
+          "id": 4,
+          "question": "Select the sentence with correct subject-verb agreement:",
+          "options": [
+            "The team of players are winning.",
+            "The team of players is winning.",
+            "The team of players were wins.",
+            "The team of players be winning."
+          ],
+          "answer": "The team of players is winning."
+        },
+        {
+          "id": 5,
+          "question": "Choose the correct meaning of the idiom 'break the ice':",
+          "options": [
+            "Start a conversation in a social setting",
+            "Destroy something fragile",
+            "End a cold season",
+            "Cause conflict"
+          ],
+          "answer": "Start a conversation in a social setting"
+        },
+        {
+          "id": 6,
+          "question": "Identify the correct antonym of 'generous':",
+          "options": ["Kind", "Stingy", "Helpful", "Polite"],
+          "answer": "Stingy"
+        },
+        {
+          "id": 7,
+          "question": "Choose the correct tense: 'She _______ to school every day.'",
+          "options": ["go", "goes", "going", "went"],
+          "answer": "goes"
+        },
+        {
+          "id": 8,
+          "question": "Select the correctly spelled word:",
+          "options": ["Occassion", "Occasion", "Ocassion", "Occasoin"],
+          "answer": "Occasion"
+        },
+        {
+          "id": 9,
+          "question": "Fill in the blank with the correct preposition: 'He is good ______ mathematics.'",
+          "options": ["in", "at", "on", "for"],
+          "answer": "at"
+        },
+        {
+          "id": 10,
+          "question": "Choose the correct sentence transformation (Direct to Indirect): 'He said, \"I am tired.\"'",
+          "options": [
+            "He said that he is tired.",
+            "He said that he was tired.",
+            "He said he will be tired.",
+            "He said he were tired."
+          ],
+          "answer": "He said that he was tired."
+        },
+        {
+          "id": 11,
+          "question": "Select the correct form of the verb: 'If I ______ rich, I would travel the world.'",
+          "options": ["am", "were", "was", "be"],
+          "answer": "were"
+        },
+        {
+          "id": 12,
+          "question": "Identify the figure of speech: 'Time is a thief.'",
+          "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+          "answer": "Metaphor"
+        },
+        {
+          "id": 13,
+          "question": "Choose the correct plural form of 'cactus':",
+          "options": ["Cactuses", "Cacti", "Cactus", "Cacta"],
+          "answer": "Cacti"
+        },
+        {
+          "id": 14,
+          "question": "Select the correct sentence with proper punctuation:",
+          "options": [
+            "Wow I can't believe it!",
+            "Wow, I can't believe it!",
+            "Wow I cant believe it",
+            "Wow I, can't believe it!"
+          ],
+          "answer": "Wow, I can't believe it!"
+        },
+        {
+          "id": 15,
+          "question": "Choose the correct word: 'She has a very ______ personality.'",
+          "options": ["amiable", "amible", "amibale", "amiabale"],
+          "answer": "amiable"
+        },
+        {
+          "id": 16,
+          "question": "Identify the correct homophone: 'I need to ______ my car.'",
+          "options": ["brake", "break", "brak", "brek"],
+          "answer": "brake"
+        },
+        {
+          "id": 17,
+          "question": "Fill in the blank: 'Neither the teacher nor the students ______ ready.'",
+          "options": ["is", "are", "was", "be"],
+          "answer": "are"
+        },
+        {
+          "id": 18,
+          "question": "Select the correct phrasal verb meaning 'to postpone':",
+          "options": ["call off", "put off", "turn off", "give up"],
+          "answer": "put off"
+        },
+        {
+          "id": 19,
+          "question": "Choose the correct sentence: ",
+          "options": [
+            "He don’t like ice cream.",
+            "He doesn’t likes ice cream.",
+            "He doesn’t like ice cream.",
+            "He don’t likes ice cream."
+          ],
+          "answer": "He doesn’t like ice cream."
+        },
+        {
+          "id": 20,
+          "question": "Identify the correct idiom meaning 'to lose control':",
+          "options": ["Blow your top", "Hit the roof", "Break a leg", "Spill the beans"],
+          "answer": "Blow your top"
+        },
+        {
+          "id": 21,
+          "question": "Read the passage and answer the question:\n\n\"Many animals migrate to warmer regions during winter. Birds, whales, and butterflies are some examples.\" \n\nWhich of the following is true according to the passage?",
+          "options": [
+            "All animals migrate in winter.",
+            "Only birds migrate in winter.",
+            "Some animals migrate to warmer regions in winter.",
+            "Animals migrate to colder regions in winter."
+          ],
+          "answer": "Some animals migrate to warmer regions in winter."
+        },
+        {
+          "id": 22,
+          "question": "Fill in the blank with the correct word: 'She completed the project ______ time.'",
+          "options": ["on", "in", "at", "by"],
+          "answer": "on"
+        },
+        {
+          "id": 23,
+          "question": "Choose the correct sentence transformation (Active to Passive): 'The teacher praised the student.'",
+          "options": [
+            "The student praised the teacher.",
+            "The student was praised by the teacher.",
+            "The teacher was praised by the student.",
+            "The student is praised the teacher."
+          ],
+          "answer": "The student was praised by the teacher."
+        },
+        {
+          "id": 24,
+          "question": "Select the correct word to complete the sentence: 'He didn’t ______ the warning.'",
+          "options": ["hear", "here", "hare", "heir"],
+          "answer": "hear"
+        },
+        {
+          "id": 25,
+          "question": "Identify the correct idiom: 'He let the cat out of the bag.' What does it mean?",
+          "options": [
+            "He released an animal.",
+            "He revealed a secret.",
+            "He went shopping.",
+            "He adopted a pet."
+          ],
+          "answer": "He revealed a secret."
+        },
+        {
+          "id": 26,
+          "question": "Choose the correct past perfect form: 'By the time we arrived, the train ______.'",
+          "options": ["had left", "has left", "left", "leaving"],
+          "answer": "had left"
+        },
+        {
+          "id": 27,
+          "question": "Select the correct sentence with proper punctuation:",
+          "options": [
+            "It's raining; therefore, we should stay indoors.",
+            "Its raining therefore we should stay indoors.",
+            "Its raining; therefore we should stay indoors",
+            "It's raining therefore, we should stay indoors."
+          ],
+          "answer": "It's raining; therefore, we should stay indoors."
+        },
+        {
+          "id": 28,
+          "question": "Identify the correct synonym for 'difficult':",
+          "options": ["Easy", "Hard", "Simple", "Clear"],
+          "answer": "Hard"
+        },
+        {
+          "id": 29,
+          "question": "Choose the correct sentence: ",
+          "options": [
+            "Neither of the answers are correct.",
+            "Neither of the answers is correct.",
+            "Neither of the answer is correct.",
+            "Neither of the answers be correct."
+          ],
+          "answer": "Neither of the answers is correct."
+        },
+        {
+          "id": 30,
+          "question": "Fill in the blank with the correct preposition: 'She is keen ______ learning French.'",
+          "options": ["for", "at", "on", "about"],
+          "answer": "on"
+        },
+        {
+          "id": 31,
+          "question": "Select the correct comparative form: 'This book is ______ than that one.'",
+          "options": ["more interesting", "interestinger", "most interesting", "interestingly"],
+          "answer": "more interesting"
+        },
+        {
+          "id": 32,
+          "question": "Choose the correct spelling:",
+          "options": ["Receive", "Recieve", "Receeve", "Receve"],
+          "answer": "Receive"
+        },
+        {
+          "id": 33,
+          "question": "Identify the correct sentence transformation (Direct to Indirect): 'She said, \"I will call you tomorrow.\"'",
+          "options": [
+            "She said that she will call me tomorrow.",
+            "She said that she would call me tomorrow.",
+            "She said she calls me tomorrow.",
+            "She said that she call me tomorrow."
+          ],
+          "answer": "She said that she would call me tomorrow."
+        },
+        {
+          "id": 34,
+          "question": "Choose the correct phrasal verb: 'The meeting was ______ due to unforeseen circumstances.'",
+          "options": ["put off", "call off", "turn off", "give up"],
+          "answer": "called off"
+        },
+        {
+          "id": 35,
+          "question": "Select the correct antonym of 'generous':",
+          "options": ["Selfish", "Kind", "Polite", "Helpful"],
+          "answer": "Selfish"
+        },
+        {
+          "id": 36,
+          "question": "Choose the correct verb form: 'If she ______ earlier, she would have caught the train.'",
+          "options": ["left", "had left", "leaves", "would leave"],
+          "answer": "had left"
+        },
+        {
+          "id": 37,
+          "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+          "options": ["Personification", "Metaphor", "Simile", "Hyperbole"],
+          "answer": "Personification"
+        },
+        {
+          "id": 38,
+          "question": "Choose the correct conditional sentence: 'I will help you ______ you ask me.'",
+          "options": ["if", "unless", "although", "because"],
+          "answer": "if"
+        },
+        {
+          "id": 39,
+          "question": "Select the correct word: 'He gave me a ______ of advice.'",
+          "options": ["piece", "peace", "peice", "pees"],
+          "answer": "piece"
+        },
+        {
+          "id": 40,
+          "question": "Fill in the blank: 'She is looking forward ______ the party.'",
+          "options": ["to", "for", "at", "on"],
+          "answer": "to"
+        },
+        {
+          "id": 41,
+          "question": "Choose the correct sentence: ",
+          "options": [
+            "Each of the students have completed their homework.",
+            "Each of the students has completed their homework.",
+            "Each of the student has completed their homework.",
+            "Each of the students have completes their homework."
+          ],
+          "answer": "Each of the students has completed their homework."
+        },
+        {
+          "id": 42,
+          "question": "Select the correct synonym for 'quick':",
+          "options": ["Fast", "Slow", "Late", "Heavy"],
+          "answer": "Fast"
+        },
+        {
+          "id": 43,
+          "question": "Choose the correct plural form: 'child'",
+          "options": ["childs", "childes", "children", "childrens"],
+          "answer": "children"
+        },
+        {
+          "id": 44,
+          "question": "Identify the correct homophone: 'Please ______ the light.'",
+          "options": ["turn off", "turn of", "turn offe", "turnov"],
+          "answer": "turn off"
+        },
+        {
+          "id": 45,
+          "question": "Fill in the blank with the correct tense: 'By next year, she ______ her degree.'",
+          "options": ["will complete", "will have completed", "completes", "completed"],
+          "answer": "will have completed"
+        },
+        {
+          "id": 46,
+          "question": "Choose the correct sentence with idiom meaning 'to succeed':",
+          "options": [
+            "He hit the roof.",
+            "She hit the jackpot.",
+            "They let the cat out of the bag.",
+            "He blew his top."
+          ],
+          "answer": "She hit the jackpot."
+        },
+        {
+          "id": 47,
+          "question": "Select the correct word: 'He is an ______ student.'",
+          "options": ["excellent", "exellent", "exelent", "excellant"],
+          "answer": "excellent"
+        },
+        {
+          "id": 48,
+          "question": "Choose the correct sentence transformation: 'I am writing a letter.' (to future tense)",
+          "options": [
+            "I will write a letter.",
+            "I wrote a letter.",
+            "I have written a letter.",
+            "I write a letter."
+          ],
+          "answer": "I will write a letter."
+        },
+        {
+          "id": 49,
+          "question": "Fill in the blank with the correct preposition: 'He is responsible ______ the project.'",
+          "options": ["for", "to", "with", "at"],
+          "answer": "for"
+        },
+        {
+          "id": 50,
+          "question": "Read the passage and answer the question:\n\n\"Rainforests are home to millions of species. They play an important role in controlling the Earth's climate.\" \n\nWhat is the main idea of the passage?",
+          "options": [
+            "Rainforests have few species.",
+            "Rainforests are important for Earth's climate and biodiversity.",
+            "Rainforests are only for timber.",
+            "Rainforests have no effect on climate."
+          ],
+          "answer": "Rainforests are important for Earth's climate and biodiversity."
+        }
+],
+
       "Mathematics": [
         {
           "id": 1,
-          "question": "What is 5 + 3?",
-          "options": ["6", "7", "8", "9"],
-          "answer": "8"
+          "question": "Simplify: 2x + 3x - 5",
+          "options": ["5x - 5", "6x - 5", "5x + 5", "6x + 5"],
+          "answer": "5x - 5"
+        },
+        {
+          "id": 2,
+          "question": "Solve for x: 3x - 7 = 8",
+          "options": ["3", "5", "15", "-5"],
+          "answer": "5"
+        },
+        {
+          "id": 3,
+          "question": "The sum of two consecutive integers is 35. What are the integers?",
+          "options": ["17, 18", "16, 19", "15, 20", "17, 19"],
+          "answer": "17, 18"
+        },
+        {
+          "id": 4,
+          "question": "Factorize: x^2 - 9",
+          "options": ["(x+3)(x-3)", "(x+9)(x-1)", "(x+1)(x-9)", "(x-3)^2"],
+          "answer": "(x+3)(x-3)"
+        },
+        {
+          "id": 5,
+          "question": "Solve: 2x + 5 = 13",
+          "options": ["4", "3", "5", "6"],
+          "answer": "4"
+        },
+        {
+          "id": 6,
+          "question": "The sum of angles in a triangle is:",
+          "options": ["180°", "360°", "90°", "270°"],
+          "answer": "180°"
+        },
+        {
+          "id": 7,
+          "question": "A rectangle has a length of 8 cm and width 5 cm. Its area is:",
+          "options": ["40 cm²", "13 cm²", "26 cm²", "45 cm²"],
+          "answer": "40 cm²"
+        },
+        {
+          "id": 8,
+          "question": "The circumference of a circle is 2πr. If r = 7, circumference = ?",
+          "options": ["14π", "7π", "49π", "21π"],
+          "answer": "14π"
+        },
+        {
+          "id": 9,
+          "question": "The volume of a cube with side 3 cm is:",
+          "options": ["27 cm³", "9 cm³", "18 cm³", "81 cm³"],
+          "answer": "27 cm³"
+        },
+        {
+          "id": 10,
+          "question": "The area of a triangle with base 10 cm and height 6 cm is:",
+          "options": ["30 cm²", "60 cm²", "16 cm²", "20 cm²"],
+          "answer": "30 cm²"
+        },
+        {
+          "id": 11,
+          "question": "sin 90° = ?",
+          "options": ["0", "1", "0.5", "-1"],
+          "answer": "1"
+        },
+        {
+          "id": 12,
+          "question": "cos 0° = ?",
+          "options": ["0", "1", "-1", "0.5"],
+          "answer": "1"
+        },
+        {
+          "id": 13,
+          "question": "If tan θ = 1, then θ = ?",
+          "options": ["0°", "30°", "45°", "60°"],
+          "answer": "45°"
+        },
+        {
+          "id": 14,
+          "question": "sin²30° + cos²30° = ?",
+          "options": ["0.5", "1", "0", "2"],
+          "answer": "1"
+        },
+        {
+          "id": 15,
+          "question": "Simplify: (x + 2)(x - 3)",
+          "options": ["x² - x - 6", "x² - x + 6", "x² + x - 6", "x² + x + 6"],
+          "answer": "x² - x - 6"
         }
       ],
-      "English": [
+     "Government": [
         {
           "id": 1,
-          "question": "Choose the correct sentence:",
-          "options": ["He go to school", "He goes to school", "He going to school"],
-          "answer": "He goes to school"
+          "question": "The main purpose of the separation of powers is to",
+          "options": ["prevent dictatorship", "encourage one-party system", "support the military", "weaken the judiciary"],
+          "answer": "prevent dictatorship"
+        },
+        {
+          "id": 2,
+          "question": "Which of the following is NOT a feature of a state?",
+          "options": ["Population", "Territory", "Government", "Family"],
+          "answer": "Family"
+        },
+        {
+          "id": 3,
+          "question": "Democracy is best defined as government",
+          "options": ["of the people, by the people and for the people", "by the rich and for the rich", "of appointed leaders", "controlled by the military"],
+          "answer": "of the people, by the people and for the people"
+        },
+        {
+          "id": 4,
+          "question": "Which organ of government interprets the law?",
+          "options": ["Executive", "Legislature", "Judiciary", "Civil Service"],
+          "answer": "Judiciary"
+        },
+        {
+          "id": 5,
+          "question": "The body responsible for conducting elections in Nigeria is the",
+          "options": ["INEC", "EFCC", "ICPC", "NNPC"],
+          "answer": "INEC"
+        },
+        {
+          "id": 6,
+          "question": "Rule of law means",
+          "options": ["no one is above the law", "leaders are above the law", "military controls the law", "the rich make the law"],
+          "answer": "no one is above the law"
+        },
+        {
+          "id": 7,
+          "question": "A constitution is important because it",
+          "options": ["guides the government", "creates inflation", "weakens democracy", "abolishes elections"],
+          "answer": "guides the government"
+        },
+        {
+          "id": 8,
+          "question": "Citizenship can be acquired through",
+          "options": ["birth", "hobby", "marriage alone", "employment"],
+          "answer": "birth"
+        },
+        {
+          "id": 9,
+          "question": "The head of the Executive arm of government in a parliamentary system is the",
+          "options": ["Prime Minister", "President", "Chief Judge", "Senate President"],
+          "answer": "Prime Minister"
+        },
+        {
+          "id": 10,
+          "question": "Public opinion is important in a democracy because it",
+          "options": ["guides government decisions", "checks market prices", "controls rainfall", "reduces population"],
+          "answer": "guides government decisions"
+        },
+        {
+          "id": 11,
+          "question": "The term 'franchise' means",
+          "options": ["right to vote", "right to travel", "right to education", "right to property"],
+          "answer": "right to vote"
+        },
+        {
+          "id": 12,
+          "question": "The lowest court in Nigeria is the",
+          "options": ["Customary court", "Supreme court", "High court", "Court of Appeal"],
+          "answer": "Customary court"
+        },
+        {
+          "id": 13,
+          "question": "A one-party system is mostly associated with",
+          "options": ["dictatorship", "federalism", "multi-party democracy", "monarchy"],
+          "answer": "dictatorship"
+        },
+        {
+          "id": 14,
+          "question": "The supreme law of a country is the",
+          "options": ["constitution", "bye-law", "gazette", "act of parliament"],
+          "answer": "constitution"
+        },
+        {
+          "id": 15,
+          "question": "The process of removing an elected official from office before the end of tenure is called",
+          "options": ["impeachment", "promotion", "transfer", "nomination"],
+          "answer": "impeachment"
+        },
+        {
+          "id": 16,
+          "question": "Pressure groups influence government mainly through",
+          "options": ["lobbying", "bribery", "violence", "malpractice"],
+          "answer": "lobbying"
+        },
+        {
+          "id": 17,
+          "question": "The principle of checks and balances is aimed at",
+          "options": ["preventing abuse of power", "creating more taxes", "making laws ineffective", "rewarding the military"],
+          "answer": "preventing abuse of power"
+        },
+        {
+          "id": 18,
+          "question": "Which of these is a characteristic of federalism?",
+          "options": ["division of powers", "hereditary succession", "absence of constitution", "rule by decree"],
+          "answer": "division of powers"
+        },
+        {
+          "id": 19,
+          "question": "The main function of the judiciary is to",
+          "options": ["interpret the law", "conduct elections", "collect taxes", "build roads"],
+          "answer": "interpret the law"
+        },
+        {
+          "id": 20,
+          "question": "Universal adult suffrage means",
+          "options": ["all qualified adults can vote", "only rich people can vote", "only students can vote", "only men can vote"],
+          "answer": "all qualified adults can vote"
+        },
+        {
+          "id": 21,
+          "question": "The tenure of local government chairmen in Nigeria is usually",
+          "options": ["3 years", "8 years", "1 year", "7 years"],
+          "answer": "3 years"
+        },
+        {
+          "id": 22,
+          "question": "Which of these is a duty of a citizen?",
+          "options": ["obeying the law", "disobeying police", "avoiding elections", "causing conflict"],
+          "answer": "obeying the law"
+        },
+        {
+          "id": 23,
+          "question": "The main aim of ECOWAS is to",
+          "options": ["promote economic cooperation", "create military rule", "abolish trade", "support terrorism"],
+          "answer": "promote economic cooperation"
+        },
+        {
+          "id": 24,
+          "question": "A constitution that can be amended easily is called",
+          "options": ["flexible", "rigid", "written", "codified"],
+          "answer": "flexible"
+        },
+        {
+          "id": 25,
+          "question": "The type of authority based on customs and traditions is",
+          "options": ["traditional authority", "charismatic authority", "legal authority", "military authority"],
+          "answer": "traditional authority"
+        },
+        {
+          "id": 26,
+          "question": "The judiciary helps to protect citizens’ rights by",
+          "options": ["ensuring justice", "making budgets", "funding elections", "promoting corruption"],
+          "answer": "ensuring justice"
+        },
+        {
+          "id": 27,
+          "question": "Military rule is characterized by",
+          "options": ["rule by decrees", "free elections", "independent judiciary", "multi-partyism"],
+          "answer": "rule by decrees"
+        },
+        {
+          "id": 28,
+          "question": "Delegated legislation is made by",
+          "options": ["non-legislative bodies", "citizens", "pressure groups", "international courts"],
+          "answer": "non-legislative bodies"
+        },
+        {
+          "id": 29,
+          "question": "The two chambers of the Nigerian legislature are",
+          "options": ["Senate and House of Representatives", "High Court and Appeal Court", "Supreme Court and Cabinet", "Governor and Deputy Governor"],
+          "answer": "Senate and House of Representatives"
+        },
+        {
+          "id": 30,
+          "question": "Who is the ceremonial head of state in a parliamentary system?",
+          "options": ["President", "Prime Minister", "Governor", "Chief Justice"],
+          "answer": "President"
+        },
+        {
+          "id": 31,
+          "question": "A bill becomes law after",
+          "options": ["presidential assent", "public debate", "court approval", "media broadcast"],
+          "answer": "presidential assent"
+        },
+        {
+          "id": 32,
+          "question": "A political party is formed to",
+          "options": ["win elections", "build houses", "collect taxes", "punish citizens"],
+          "answer": "win elections"
+        },
+        {
+          "id": 33,
+          "question": "The power of the President to reduce a prisoner’s sentence is called",
+          "options": ["prerogative of mercy", "impeachment", "probation", "delegation"],
+          "answer": "prerogative of mercy"
+        },
+        {
+          "id": 34,
+          "question": "The 36 states in Nigeria are divided into",
+          "options": ["6 geopolitical zones", "4 economic zones", "10 rural zones", "2 administrative zones"],
+          "answer": "6 geopolitical zones"
+        },
+        {
+          "id": 35,
+          "question": "The Nigerian flag was designed by",
+          "options": ["Taiwo Akinkunmi", "Nnamdi Azikiwe", "Obafemi Awolowo", "Flora Shaw"],
+          "answer": "Taiwo Akinkunmi"
+        },
+        {
+          "id": 36,
+          "question": "The highest court in Nigeria is the",
+          "options": ["Supreme Court", "High Court", "Customary Court", "Magistrate Court"],
+          "answer": "Supreme Court"
+        },
+        {
+          "id": 37,
+          "question": "An election conducted to fill a vacant seat is called",
+          "options": ["by-election", "general election", "primary election", "referendum"],
+          "answer": "by-election"
+        },
+        {
+          "id": 38,
+          "question": "Which of these is NOT a type of constitution?",
+          "options": ["Rigid", "Flexible", "Dynamic", "Written"],
+          "answer": "Dynamic"
+        },
+        {
+          "id": 39,
+          "question": "The body that investigates corruption in Nigeria is",
+          "options": ["EFCC", "NTA", "WAEC", "NBA"],
+          "answer": "EFCC"
+        },
+        {
+          "id": 40,
+          "question": "The 1999 Constitution of Nigeria is a",
+          "options": ["written constitution", "unwritten constitution", "traditional constitution", "customary constitution"],
+          "answer": "written constitution"
+        },
+        {
+          "id": 41,
+          "question": "Public corporations are owned by",
+          "options": ["the government", "private individuals", "foreign countries", "business tycoons"],
+          "answer": "the government"
+        },
+        {
+          "id": 42,
+          "question": "Nigeria became a republic in",
+          "options": ["1963", "1960", "1999", "1979"],
+          "answer": "1963"
+        },
+        {
+          "id": 43,
+          "question": "The head of a local government is the",
+          "options": ["Chairman", "Governor", "Senator", "Minister"],
+          "answer": "Chairman"
+        },
+        {
+          "id": 44,
+          "question": "Who represents Nigeria in international organizations?",
+          "options": ["The President", "Chief Judge", "Senate President", "Inspector General of Police"],
+          "answer": "The President"
+        },
+        {
+          "id": 45,
+          "question": "The main source of government revenue is",
+          "options": ["taxation", "graduation", "celebration", "agitation"],
+          "answer": "taxation"
+        },
+        {
+          "id": 46,
+          "question": "The act of refusing to take part in an election is known as",
+          "options": ["boycott", "strike", "petition", "campaign"],
+          "answer": "boycott"
+        },
+        {
+          "id": 47,
+          "question": "The head of the United Nations Secretariat is the",
+          "options": ["Secretary-General", "President", "Chairman", "Controller"],
+          "answer": "Secretary-General"
+        },
+        {
+          "id": 48,
+          "question": "The right to fair hearing is a",
+          "options": ["fundamental human right", "military decree", "punishment", "tradition"],
+          "answer": "fundamental human right"
+        },
+        {
+          "id": 49,
+          "question": "The Nigerian Civil War ended in",
+          "options": ["1970", "1960", "1985", "1993"],
+          "answer": "1970"
+        },
+        {
+          "id": 50,
+          "question": "The principle of sovereignty means",
+          "options": ["the state has supreme power", "the military rules always", "citizens cannot vote", "the judiciary controls elections"],
+          "answer": "the state has supreme power"
         }
       ]
+      
     }
   }
 ]

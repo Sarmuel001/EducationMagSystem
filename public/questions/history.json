@@ -1,0 +1,739 @@
+
+{
+  "History": {
+    "2021": [
+      {
+         
+        "question": "History is the study of?",
+        "options": { "A": "Future", "B": "Past", "C": "Science", "D": "Mathematics" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "The first civilization in the world was?",
+        "options": { "A": "Egypt", "B": "Mesopotamia", "C": "Greece", "D": "China" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Which empire existed in West Africa before colonialism?",
+        "options": { "A": "Ghana", "B": "Roman", "C": "Mongol", "D": "Persian" },
+        "correctOption": "A"
+      },
+      {
+         
+        "question": "The trans-Atlantic slave trade mainly involved?",
+        "options": { "A": "Africa to America", "B": "Asia to Europe", "C": "Europe to Asia", "D": "America to Africa" },
+        "correctOption": "A"
+      },
+      {
+         
+        "question": "Which European country first came to the Nigerian coast?",
+        "options": { "A": "Britain", "B": "France", "C": "Portugal", "D": "Spain" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "Palm oil trade was important during which century?",
+        "options": { "A": "17th", "B": "18th", "C": "19th", "D": "20th" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "The British used which system to rule Nigeria?",
+        "options": { "A": "Direct rule", "B": "Indirect rule", "C": "Colonial federation", "D": "Autonomous" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Who led Nigeria to independence in 1960?",
+        "options": { "A": "Nnamdi Azikiwe", "B": "Tafawa Balewa", "C": "Obafemi Awolowo", "D": "Ahmadu Bello" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "The Berlin Conference divided Africa among?",
+        "options": { "A": "Africans", "B": "Europeans", "C": "Americans", "D": "Asians" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "History is important because it?",
+        "options": { "A": "Teaches culture", "B": "Prevents mistakes", "C": "Both A and B", "D": "None" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "Which kingdom was famous for bronze art?",
+        "options": { "A": "Benin", "B": "Oyo", "C": "Ife", "D": "Kano" },
+        "correctOption": "A"
+      },
+      {
+         
+        "question": "The main source of early Nigerian history was?",
+        "options": { "A": "Written records", "B": "Oral tradition", "C": "Coins", "D": "Newspapers" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Which river was key in early West African trade?",
+        "options": { "A": "Niger", "B": "Nile", "C": "Congo", "D": "Volta" },
+        "correctOption": "A"
+      },
+      {
+         
+        "question": "Nigeria became a republic in?",
+        "options": { "A": "1960", "B": "1963", "C": "1970", "D": "1966" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Missionaries introduced what to Nigeria?",
+        "options": { "A": "Western education", "B": "Christianity", "C": "Both A and B", "D": "None" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "The Yoruba kingdom that resisted British conquest was?",
+        "options": { "A": "Ife", "B": "Oyo", "C": "Benin", "D": "Kano" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Who is called the 'Father of Nigeria'?",
+        "options": { "A": "Obafemi Awolowo", "B": "Nnamdi Azikiwe", "C": "Tafawa Balewa", "D": "Ahmadu Bello" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "The Sokoto Caliphate was founded by?",
+        "options": { "A": "Usman Dan Fodio", "B": "Muhammad Bello", "C": "Ahmadu Bello", "D": "Samori Toure" },
+        "correctOption": "A"
+      },
+      {
+         
+        "question": "Nigeria is located in which continent?",
+        "options": { "A": "Asia", "B": "Africa", "C": "Europe", "D": "America" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "The first Nigerian to become Governor-General was?",
+        "options": { "A": "Nnamdi Azikiwe", "B": "Tafawa Balewa", "C": "Obafemi Awolowo", "D": "Ahmadu Bello" },
+        "correctOption": "A"
+      }
+    ],
+
+    "2022": [
+      {
+        "History": {
+          "2021": [
+            {
+               
+              "question": "Who was the first President of Nigeria?",
+              "options": {
+                "A": "Nnamdi Azikiwe",
+                "B": "Obafemi Awolowo",
+                "C": "Ahmadu Bello",
+                "D": "Yakubu Gowon"
+              },
+              "correctOption": "A"
+            },
+            {
+               
+              "question": "In what year did Nigeria gain independence?",
+              "options": {
+                "A": "1957",
+                "B": "1960",
+                "C": "1963",
+                "D": "1966"
+              },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Who was the first Prime Minister of Nigeria?",
+              "options": {
+                "A": "Tafawa Balewa",
+                "B": "Yakubu Gowon",
+                "C": "Nnamdi Azikiwe",
+                "D": "Ernest Shonekan"
+              },
+              "correctOption": "A"
+            },
+            {
+               
+              "question": "Nigeria became a republic in which year?",
+              "options": {
+                "A": "1960",
+                "B": "1961",
+                "C": "1963",
+                "D": "1966"
+              },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which colonial power ruled Nigeria before independence?",
+              "options": {
+                "A": "France",
+                "B": "Germany",
+                "C": "Portugal",
+                "D": "Britain"
+              },
+              "correctOption": "D"
+            },
+            {
+               
+              "question": "The amalgamation of Northern and Southern Nigeria took place in?",
+              "options": {
+                "A": "1900",
+                "B": "1906",
+                "C": "1914",
+                "D": "1922"
+              },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Who was responsible for the amalgamation of Nigeria?",
+              "options": {
+                "A": "Lord Lugard",
+                "B": "Lord Palmerston",
+                "C": "Lord Macpherson",
+                "D": "Lord Milner"
+              },
+              "correctOption": "A"
+            },
+            {
+               
+              "question": "What was the capital of Nigeria before Abuja?",
+              "options": {
+                "A": "Ibadan",
+                "B": "Benin",
+                "C": "Lagos",
+                "D": "Enugu"
+              },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which constitution introduced regional government in Nigeria?",
+              "options": {
+                "A": "Clifford Constitution",
+                "B": "Richards Constitution",
+                "C": "Macpherson Constitution",
+                "D": "Lyttleton Constitution"
+              },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "The Nigerian Civil War lasted between?",
+              "options": {
+                "A": "1963–1966",
+                "B": "1966–1969",
+                "C": "1967–1970",
+                "D": "1970–1973"
+              },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Who was Nigeria’s military Head of State during the Civil War?",
+              "options": {
+                "A": "Aguiyi Ironsi",
+                "B": "Yakubu Gowon",
+                "C": "Murtala Mohammed",
+                "D": "Olusegun Obasanjo"
+              },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which ethnic group dominates Northern Nigeria?",
+              "options": {
+                "A": "Yoruba",
+                "B": "Igbo",
+                "C": "Hausa-Fulani",
+                "D": "Ijaw"
+              },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Who introduced the indirect rule system in Nigeria?",
+              "options": {
+                "A": "Lord Lugard",
+                "B": "Lord Clifford",
+                "C": "Lord Macpherson",
+                "D": "Lord Lyttleton"
+              },
+              "correctOption": "A"
+            },
+            {
+               
+              "question": "Which constitution introduced the elective principle?",
+              "options": {
+                "A": "Richards Constitution",
+                "B": "Clifford Constitution",
+                "C": "Macpherson Constitution",
+                "D": "Lyttleton Constitution"
+              },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Nigeria adopted Abuja as capital in which year?",
+              "options": {
+                "A": "1980",
+                "B": "1987",
+                "C": "1991",
+                "D": "1995"
+              },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Who was the first military Head of State in Nigeria?",
+              "options": {
+                "A": "Yakubu Gowon",
+                "B": "Aguiyi Ironsi",
+                "C": "Murtala Mohammed",
+                "D": "Babangida"
+              },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which year marked Nigeria’s first military coup?",
+              "options": {
+                "A": "1960",
+                "B": "1963",
+                "C": "1966",
+                "D": "1970"
+              },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Who was Nigeria’s first Executive President?",
+              "options": {
+                "A": "Shehu Shagari",
+                "B": "Olusegun Obasanjo",
+                "C": "Goodluck Jonathan",
+                "D": "Muhammadu Buhari"
+              },
+              "correctOption": "A"
+            },
+            {
+               
+              "question": "The Second Republic began in?",
+              "options": {
+                "A": "1975",
+                "B": "1979",
+                "C": "1983",
+                "D": "1987"
+              },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which military leader handed over power to a civilian government in 1979?",
+              "options": {
+                "A": "Yakubu Gowon",
+                "B": "Murtala Mohammed",
+                "C": "Olusegun Obasanjo",
+                "D": "Ibrahim Babangida"
+              },
+              "correctOption": "C"
+            }
+          ]
+        }
+      }
+    ],
+
+    "2023": [
+      {
+        "History": {
+          "2023": [
+            {
+               
+              "question": "History as a subject is best defined as?",
+              "options": { "A": "The study of dead people", "B": "The study of past events", "C": "The study of government", "D": "The study of culture only" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which of the following is a primary source of history?",
+              "options": { "A": "Textbooks", "B": "Encyclopedia", "C": "Oral tradition", "D": "Journals" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The Nok civilization is associated with which artefacts?",
+              "options": { "A": "Bronze works", "B": "Stone tools", "C": "Terracotta figures", "D": "Gold ornaments" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which empire was the earliest in West Africa?",
+              "options": { "A": "Mali", "B": "Songhai", "C": "Ghana", "D": "Kanem-Bornu" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The trans-Saharan trade was mainly conducted through?",
+              "options": { "A": "Forests", "B": "Rivers", "C": "Deserts", "D": "Oceans" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which commodity was NOT traded across the Sahara?",
+              "options": { "A": "Salt", "B": "Gold", "C": "Slaves", "D": "Crude oil" },
+              "correctOption": "D"
+            },
+            {
+               
+              "question": "Who introduced Islam into West Africa?",
+              "options": { "A": "Europeans", "B": "Arabs", "C": "Portuguese", "D": "Missionaries" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which empire reached its peak under Mansa Musa?",
+              "options": { "A": "Ghana", "B": "Songhai", "C": "Mali", "D": "Kanem-Bornu" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The capital of the Songhai Empire was?",
+              "options": { "A": "Kano", "B": "Gao", "C": "Timbuktu", "D": "Agades" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which factor led to the decline of the Ghana Empire?",
+              "options": { "A": "Civil war", "B": "Moroccan invasion", "C": "Decline in trade", "D": "European colonization" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The Benin Kingdom was located in present-day?",
+              "options": { "A": "Lagos", "B": "Edo", "C": "Delta", "D": "Ondo" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "The Benin bronzes were produced mainly for?",
+              "options": { "A": "Trade", "B": "Decoration", "C": "Royal and religious purposes", "D": "Warfare" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which group established the Kanem-Bornu Empire?",
+              "options": { "A": "Hausa", "B": "Yoruba", "C": "Kanuri", "D": "Nupe" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "What was the major occupation of the Hausa people?",
+              "options": { "A": "Fishing", "B": "Trading", "C": "Hunting", "D": "Mining" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which of these towns was NOT a Hausa city-state?",
+              "options": { "A": "Zaria", "B": "Kano", "C": "Ile-Ife", "D": "Katsina" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The Oyo Empire was famous for its?",
+              "options": { "A": "Navy", "B": "Cavalry", "C": "Farming tools", "D": "Fishing boats" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Who was the political head of the Oyo Empire?",
+              "options": { "A": "Oba", "B": "Alaafin", "C": "Ooni", "D": "Sarkin" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "The title of the ruler of Ile-Ife is?",
+              "options": { "A": "Alaafin", "B": "Emir", "C": "Obi", "D": "Ooni" },
+              "correctOption": "D"
+            },
+            {
+               
+              "question": "Which European country first came to Nigeria?",
+              "options": { "A": "Britain", "B": "France", "C": "Portugal", "D": "Germany" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The main aim of early European contact with Nigeria was?",
+              "options": { "A": "Colonization", "B": "Trade", "C": "Religion", "D": "Education" },
+              "correctOption": "B"
+            }
+          ]
+        }
+      }
+      
+    ],
+
+    "2024": [
+      {
+        "History": {
+          "2023": [
+            {
+               
+              "question": "History as a subject is best defined as?",
+              "options": { "A": "The study of dead people", "B": "The study of past events", "C": "The study of government", "D": "The study of culture only" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which of the following is a primary source of history?",
+              "options": { "A": "Textbooks", "B": "Encyclopedia", "C": "Oral tradition", "D": "Journals" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The Nok civilization is associated with which artefacts?",
+              "options": { "A": "Bronze works", "B": "Stone tools", "C": "Terracotta figures", "D": "Gold ornaments" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which empire was the earliest in West Africa?",
+              "options": { "A": "Mali", "B": "Songhai", "C": "Ghana", "D": "Kanem-Bornu" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The trans-Saharan trade was mainly conducted through?",
+              "options": { "A": "Forests", "B": "Rivers", "C": "Deserts", "D": "Oceans" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which commodity was NOT traded across the Sahara?",
+              "options": { "A": "Salt", "B": "Gold", "C": "Slaves", "D": "Crude oil" },
+              "correctOption": "D"
+            },
+            {
+               
+              "question": "Who introduced Islam into West Africa?",
+              "options": { "A": "Europeans", "B": "Arabs", "C": "Portuguese", "D": "Missionaries" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which empire reached its peak under Mansa Musa?",
+              "options": { "A": "Ghana", "B": "Songhai", "C": "Mali", "D": "Kanem-Bornu" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The capital of the Songhai Empire was?",
+              "options": { "A": "Kano", "B": "Gao", "C": "Timbuktu", "D": "Agades" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which factor led to the decline of the Ghana Empire?",
+              "options": { "A": "Civil war", "B": "Moroccan invasion", "C": "Decline in trade", "D": "European colonization" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The Benin Kingdom was located in present-day?",
+              "options": { "A": "Lagos", "B": "Edo", "C": "Delta", "D": "Ondo" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "The Benin bronzes were produced mainly for?",
+              "options": { "A": "Trade", "B": "Decoration", "C": "Royal and religious purposes", "D": "Warfare" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "Which group established the Kanem-Bornu Empire?",
+              "options": { "A": "Hausa", "B": "Yoruba", "C": "Kanuri", "D": "Nupe" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "What was the major occupation of the Hausa people?",
+              "options": { "A": "Fishing", "B": "Trading", "C": "Hunting", "D": "Mining" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Which of these towns was NOT a Hausa city-state?",
+              "options": { "A": "Zaria", "B": "Kano", "C": "Ile-Ife", "D": "Katsina" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The Oyo Empire was famous for its?",
+              "options": { "A": "Navy", "B": "Cavalry", "C": "Farming tools", "D": "Fishing boats" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "Who was the political head of the Oyo Empire?",
+              "options": { "A": "Oba", "B": "Alaafin", "C": "Ooni", "D": "Sarkin" },
+              "correctOption": "B"
+            },
+            {
+               
+              "question": "The title of the ruler of Ile-Ife is?",
+              "options": { "A": "Alaafin", "B": "Emir", "C": "Obi", "D": "Ooni" },
+              "correctOption": "D"
+            },
+            {
+               
+              "question": "Which European country first came to Nigeria?",
+              "options": { "A": "Britain", "B": "France", "C": "Portugal", "D": "Germany" },
+              "correctOption": "C"
+            },
+            {
+               
+              "question": "The main aim of early European contact with Nigeria was?",
+              "options": { "A": "Colonization", "B": "Trade", "C": "Religion", "D": "Education" },
+              "correctOption": "B"
+            }
+          ]
+        }
+      }
+      
+    ],
+
+    "2025": [
+      {
+         
+        "question": "History helps us to understand the present by studying the?",
+        "options": { "A": "Future events", "B": "Past events", "C": "Political systems", "D": "Cultural practices only" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Which of the following is NOT a source of history?",
+        "options": { "A": "Oral tradition", "B": "Archaeology", "C": "Anthropology", "D": "Forecasting" },
+        "correctOption": "D"
+      },
+      {
+         
+        "question": "The earliest form of writing in history is known as?",
+        "options": { "A": "Alphabetic writing", "B": "Hieroglyphics", "C": "Cuneiform", "D": "Latin script" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "Which civilization is associated with hieroglyphic writing?",
+        "options": { "A": "Mesopotamian", "B": "Egyptian", "C": "Indus Valley", "D": "Chinese" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "The Ghana Empire was located between the?",
+        "options": { "A": "Niger and Senegal rivers", "B": "Nile and Congo rivers", "C": "Benue and Niger rivers", "D": "Volta and Congo rivers" },
+        "correctOption": "A"
+      },
+      {
+         
+        "question": "Which metal was most valued in West African trade?",
+        "options": { "A": "Iron", "B": "Copper", "C": "Gold", "D": "Silver" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "Who conquered the Songhai Empire in 1591?",
+        "options": { "A": "British", "B": "Portuguese", "C": "Moroccans", "D": "French" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "The ruler of the Songhai Empire was called?",
+        "options": { "A": "Mansa", "B": "Mai", "C": "Askia", "D": "Alaafin" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "Which Nigerian kingdom was famous for ivory and pepper trade?",
+        "options": { "A": "Benin", "B": "Oyo", "C": "Kanem-Bornu", "D": "Ife" },
+        "correctOption": "A"
+      },
+      {
+         
+        "question": "The Portuguese arrived on the Nigerian coast in the?",
+        "options": { "A": "14th century", "B": "15th century", "C": "16th century", "D": "17th century" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Which trade replaced the trans-Atlantic slave trade?",
+        "options": { "A": "Gold trade", "B": "Legitimate trade", "C": "Salt trade", "D": "Oil trade" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Palm oil trade became prominent in Nigeria during the?",
+        "options": { "A": "16th century", "B": "17th century", "C": "18th century", "D": "19th century" },
+        "correctOption": "D"
+      },
+      {
+         
+        "question": "Which European power finally colonized Nigeria?",
+        "options": { "A": "France", "B": "Germany", "C": "Portugal", "D": "Britain" },
+        "correctOption": "D"
+      },
+      {
+         
+        "question": "The Berlin Conference was organized to?",
+        "options": { "A": "Stop slave trade", "B": "Share Africa among Europeans", "C": "Promote trade", "D": "Spread Christianity" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "Which system of administration did the British introduce in Nigeria?",
+        "options": { "A": "Direct rule", "B": "Indirect rule", "C": "Federal system", "D": "Confederation" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "The introduction of Western education in Nigeria was mainly by?",
+        "options": { "A": "Traders", "B": "Colonial administrators", "C": "Missionaries", "D": "Traditional rulers" },
+        "correctOption": "C"
+      },
+      {
+         
+        "question": "Which nationalist movement fought for Nigerian independence?",
+        "options": { "A": "NCNC", "B": "NPC", "C": "Action Group", "D": "All of the above" },
+        "correctOption": "D"
+      },
+      {
+         
+        "question": "Who delivered Nigeria’s independence speech in 1960?",
+        "options": { "A": "Nnamdi Azikiwe", "B": "Tafawa Balewa", "C": "Obafemi Awolowo", "D": "Ahmadu Bello" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "The struggle for independence in Nigeria was mainly achieved through?",
+        "options": { "A": "Violence", "B": "Negotiation", "C": "War", "D": "Revolution" },
+        "correctOption": "B"
+      },
+      {
+         
+        "question": "One major importance of history to society is that it?",
+        "options": { "A": "Encourages conflict", "B": "Preserves cultural heritage", "C": "Promotes illiteracy", "D": "Prevents development" },
+        "correctOption": "B"
+      }
+    ]
+  }
+}

@@ -1,17 +1,11 @@
+
+
 *{
   box-sizing: border-box;
+  font-family: 'poppins','Nexa','tahoma';
 }
 
 @import "tailwindcss";
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
-@theme{
-  --pri: #ff0099, 
-} 
-
 
 /* @media (min-width:300px){
    #headtag{
