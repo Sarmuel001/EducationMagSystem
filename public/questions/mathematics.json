@@ -23,26 +23,67 @@
       {"question": "Solve for $x$: $2^{x+1} = 32$.", "A": "3", "B": "4", "C": "5", "D": "6", "answer": "B", "explanation": "$2^{x+1} = 2^5 \\Rightarrow x+1 = 5 \\Rightarrow x=4$."}
     ],
     "2022": [
-      {"question": "CONTEXT: In a right-angled triangle $ABC$, the hypotenuse $AC = 13$cm and the base $BC = 5$cm. Angle $B$ is 90°.\n\n1. Find the length of the height $AB$.", "A": "8cm", "B": "10cm", "C": "11cm", "D": "12cm", "answer": "D", "explanation": "Using Pythagoras: $AB^2 = 13^2 - 5^2 = 169 - 25 = 144 \\Rightarrow AB = 12$."},
-      {"question": "[Refer to context in Q1] Find the value of $sin(C)$.", "A": "5/13", "B": "12/13", "C": "5/12", "D": "13/12", "answer": "B", "explanation": "$sin(C) = \\frac{\\text{Opposite}}{\\text{Hypotenuse}} = \\frac{AB}{AC} = \\frac{12}{13}$."},
-      {"question": "[Refer to context in Q1] Find the value of $tan(A)$.", "A": "5/13", "B": "12/13", "C": "5/12", "D": "12/5", "answer": "C", "explanation": "$tan(A) = \\frac{\\text{Opposite}}{\\text{Adjacent}} = \\frac{BC}{AB} = \\frac{5}{12}$."},
-      {"question": "[Refer to context in Q1] What is the area of the triangle?", "A": "30cm²", "B": "32.5cm²", "C": "60cm²", "D": "65cm²", "answer": "A", "explanation": "$Area = 0.5 \\times \text{base} \\times \text{height} = 0.5 \\times 5 \\times 12 = 30$."},
-      {"question": "[Refer to context in Q1] If the triangle is enlarged by a scale factor of 2, what is the new area?", "A": "60cm²", "B": "90cm²", "C": "120cm²", "D": "150cm²", "answer": "C", "explanation": "$New Area = Old Area \\times (\text{scale factor})^2 = 30 \\times 4 = 120$."},
-      {"question": "Simplify $\\frac{x^2 - 9}{x - 3}$.", "A": "x - 3", "B": "x + 3", "C": "x + 9", "D": "x^2 + 3", "answer": "B", "explanation": "$\\frac{(x-3)(x+3)}{x-3} = x + 3$."},
-      {"question": "If $log_2(y) = 3$, find $y$.", "A": "6", "B": "8", "C": "9", "D": "16", "answer": "B", "explanation": "$y = 2^3 = 8$."},
-      {"question": "Evaluate $\\int (4x^3 + 2x) dx$.", "A": "x^4 + x^2 + c", "B": "12x^2 + 2 + c", "C": "4x^4 + 2x^2 + c", "D": "x^3 + x + c", "answer": "A", "explanation": "$\\frac{4x^4}{4} + \\frac{2x^2}{2} = x^4 + x^2 + c$."},
-      {"question": "Find the 10th term of an A.P. where $a=5$ and $d=3$.", "A": "30", "B": "32", "C": "35", "D": "38", "answer": "B", "explanation": "$T_{10} = 5 + 9(3) = 5 + 27 = 32$."},
-      {"question": "Find the value of $x$ if $3^{2x} = 27$.", "A": "1.5", "B": "2", "C": "3", "D": "9", "answer": "A", "explanation": "$3^{2x} = 3^3 \\Rightarrow 2x = 3 \\Rightarrow x = 1.5$."},
-      {"question": "In a pie chart, a sector representing 40 students has an angle of 80°. How many students are there in total?", "A": "160", "B": "180", "C": "200", "D": "360", "answer": "B", "explanation": "$\\frac{80}{360} \\times Total = 40 \\Rightarrow \\frac{1}{4.5} \\times Total = 40 \\Rightarrow Total = 180$."},
-      {"question": "Find the midpoint of the line joining points (2, 4) and (6, 8).", "A": "(4, 6)", "B": "(8, 12)", "C": "(4, 4)", "D": "(2, 2)", "answer": "A", "explanation": "$M = (\\frac{2+6}{2}, \\frac{4+8}{2}) = (4, 6)$."},
-      {"question": "Calculate the simple interest on ₦20,000 for 3 years at 5% per annum.", "A": "₦1,000", "B": "₦2,000", "C": "₦3,000", "D": "₦6,000", "answer": "C", "explanation": "$I = \\frac{P R T}{100} = \\frac{20000 \\times 5 \\times 3}{100} = 3000$."},
-      {"question": "Simplify $(2a^2b)^3$.", "A": "6a^5b^3", "B": "8a^5b^3", "C": "8a^6b^3", "D": "2a^6b^3", "answer": "C", "explanation": "$2^3 (a^2)^3 b^3 = 8a^6b^3$."},
-      {"question": "Find the mode of: 2, 5, 2, 3, 5, 2, 4.", "A": "2", "B": "3", "C": "4", "D": "5", "answer": "A", "explanation": "The number 2 appears most frequently (3 times)."},
-      {"question": "A cylinder has a radius of 3cm and a height of 7cm. Find its volume (Use $\\pi = \\frac{22}{7}$).", "A": "66cm³", "B": "132cm³", "C": "198cm³", "D": "462cm³", "answer": "C", "explanation": "$V = \\pi r^2 h = \\frac{22}{7} \\times 9 \\times 7 = 198$."},
-      {"question": "Solve for $y$: $3y - 2 = 5y + 10$.", "A": "-6", "B": "6", "C": "-4", "D": "4", "answer": "A", "explanation": "$-12 = 2y \\Rightarrow y = -6$."},
-      {"question": "Find the range of the set: 12, 15, 8, 20, 5.", "A": "12", "B": "15", "C": "20", "D": "25", "answer": "B", "explanation": "Range $= 20 - 5 = 15$."},
-      {"question": "Rationalize $\\frac{2}{\\sqrt{2}}$.", "A": "2", "B": "$\\sqrt{2}$", "C": "2$\\sqrt{2}$", "D": "1", "answer": "B", "explanation": "$\\frac{2 \\times \\sqrt{2}}{\\sqrt{2} \\times \\sqrt{2}} = \\frac{2\\sqrt{2}}{2} = \\sqrt{2}$."},
-      {"question": "If $tan(\\theta) = 1$, find the acute angle $\\theta$.", "A": "30°", "B": "45°", "C": "60°", "D": "90°", "answer": "B", "explanation": "$tan(45°) = 1$."}
+      
+{"question": "Solve the inequality 3x − 7 > 5.", "A": "x > 4", "B": "x > 3", "C": "x > 2", "D": "x > 1", "answer": "A", "explanation": "3x − 7 > 5 ⇒ 3x > 12 ⇒ x > 4."},
+
+{"question": "If log₁₀ 100 = 2, evaluate log₁₀ 10.", "A": "0", "B": "1", "C": "2", "D": "10", "answer": "B", "explanation": "log₁₀ 10 = 1 because 10¹ = 10."},
+
+{"question": "Simplify √72.", "A": "6√2", "B": "4√2", "C": "3√2", "D": "12√2", "answer": "A", "explanation": "√72 = √(36×2) = 6√2."},
+
+{"question": "Find the sum of the first 10 natural numbers.", "A": "45", "B": "50", "C": "55", "D": "60", "answer": "C", "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55."},
+
+{"question": "Evaluate 3² + 4².", "A": "25", "B": "16", "C": "20", "D": "24", "answer": "A", "explanation": "3² = 9 and 4² = 16. Sum = 25."},
+
+{"question": "Find the probability of selecting a vowel from the word 'MATH'.", "A": "1/4", "B": "1/2", "C": "3/4", "D": "1", "answer": "A", "explanation": "Only one vowel (A) out of four letters."},
+
+{"question": "Evaluate √256.", "A": "14", "B": "15", "C": "16", "D": "18", "answer": "C", "explanation": "16 × 16 = 256."},
+
+{"question": "Find the perimeter of a rectangle with length 12 cm and width 5 cm.", "A": "34 cm", "B": "30 cm", "C": "24 cm", "D": "40 cm", "answer": "A", "explanation": "Perimeter = 2(l + w) = 2(12 + 5) = 34 cm."},
+
+{"question": "Evaluate 5³.", "A": "25", "B": "75", "C": "125", "D": "100", "answer": "C", "explanation": "5³ = 5×5×5 = 125."},
+
+{"question": "If cos θ = 0, find θ.", "A": "0°", "B": "90°", "C": "45°", "D": "30°", "answer": "B", "explanation": "Cosine of 90° equals 0."},
+
+{"question": "Find √196.", "A": "12", "B": "13", "C": "14", "D": "15", "answer": "C", "explanation": "14 × 14 = 196."},
+
+{"question": "If the radius of a circle is doubled, the area becomes:", "A": "2 times", "B": "3 times", "C": "4 times", "D": "8 times", "answer": "C", "explanation": "Area ∝ r², doubling r multiplies area by 4."},
+
+{"question": "Evaluate 7².", "A": "42", "B": "49", "C": "56", "D": "64", "answer": "B", "explanation": "7 × 7 = 49."},
+
+{"question": "Find the median of the numbers 2, 4, 6, 8, 10.", "A": "4", "B": "5", "C": "6", "D": "7", "answer": "C", "explanation": "The middle number in ordered data is 6."},
+
+{"question": "Simplify 2⁵ ÷ 2².", "A": "2³", "B": "2⁷", "C": "2²", "D": "2⁵", "answer": "A", "explanation": "Indices rule: subtract powers → 2⁵ ÷ 2² = 2³."},
+
+{"question": "Find √400.", "A": "18", "B": "19", "C": "20", "D": "21", "answer": "C", "explanation": "20 × 20 = 400."},
+
+{"question": "Solve 7x = 63.", "A": "7", "B": "8", "C": "9", "D": "6", "answer": "C", "explanation": "x = 63 / 7 = 9."},
+
+{"question": "Find the area of a triangle with base 10 cm and height 6 cm.", "A": "30 cm²", "B": "60 cm²", "C": "20 cm²", "D": "36 cm²", "answer": "A", "explanation": "Area = 1/2 × base × height = 1/2 × 10 × 6 = 30 cm²."},
+
+{"question": "Evaluate 8².", "A": "16", "B": "32", "C": "48", "D": "64", "answer": "D", "explanation": "8 × 8 = 64."},
+
+{"question": "Find √324.", "A": "16", "B": "17", "C": "18", "D": "19", "answer": "C", "explanation": "18 × 18 = 324."},
+
+{"question": "Find the mean of 5, 7, 9.", "A": "6", "B": "7", "C": "8", "D": "9", "answer": "B", "explanation": "Mean = (5 + 7 + 9) / 3 = 7."},
+
+{"question": "Evaluate 9².", "A": "72", "B": "81", "C": "90", "D": "99", "answer": "B", "explanation": "9 × 9 = 81."},
+
+{"question": "Find √361.", "A": "17", "B": "18", "C": "19", "D": "20", "answer": "C", "explanation": "19 × 19 = 361."},
+
+{"question": "Solve x + 9 = 15.", "A": "4", "B": "5", "C": "6", "D": "7", "answer": "C", "explanation": "x = 15 − 9 = 6."},
+
+{"question": "Evaluate 12².", "A": "124", "B": "144", "C": "132", "D": "156", "answer": "B", "explanation": "12 × 12 = 144."},
+
+{"question": "Find the diameter of a circle with radius 7 cm.", "A": "7 cm", "B": "14 cm", "C": "21 cm", "D": "28 cm", "answer": "B", "explanation": "Diameter = 2r = 14 cm."},
+
+{"question": "Evaluate 10² − 6².", "A": "64", "B": "36", "C": "48", "D": "72", "answer": "A", "explanation": "100 − 36 = 64."},
+
+{"question": "Find √441.", "A": "19", "B": "20", "C": "21", "D": "22", "answer": "C", "explanation": "21 × 21 = 441."},
+
+{"question": "Find the sum of the first 5 even numbers.", "A": "20", "B": "30", "C": "40", "D": "50", "answer": "B", "explanation": "2 + 4 + 6 + 8 + 10 = 30."},
+
+{"question": "Evaluate 15².", "A": "205", "B": "215", "C": "225", "D": "235", "answer": "C", "explanation": "15 × 15 = 225."}
+
     ],
         "2023": [
           {"question": "CONTEXT: A line passes through the points $P(2, 3)$ and $Q(5, 9)$.\n\n1. Calculate the gradient (slope) of the line $PQ$.", "A": "2", "B": "3", "C": "4", "D": "6", "answer": "A", "explanation": "$m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{9 - 3}{5 - 2} = \\frac{6}{3} = 2$."},
