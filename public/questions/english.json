@@ -67,6 +67,45 @@
       {"question": "[Refer to the passage in Q1] The phrase 'left behind' implies:", "A": "Staying at home", "B": "Being at a disadvantage", "C": "Walking slowly", "D": "Being forgotten", "answer": "B", "explanation": "It means being unable to keep up or succeed in the new economy."},
       {"question": "[Refer to the passage in Q1] Technology is described as the driver of:", "A": "The internet", "B": "The global economy", "C": "Education", "D": "Transportation", "answer": "B", "explanation": "The passage says the global economy is driven by technology."},
       {"question": "[Refer to the passage in Q1] Digital literacy is described as a:", "A": "Choice", "B": "Luxury", "C": "Necessity", "D": "Hobby", "answer": "C", "explanation": "The passage states it is a 'necessity'."},
+      {"question": "Who is the headmaster of Stardom Schools in the novel?", "A": "Mr. Adewale Bepo", "B": "Mr. Kayode", "C": "Mr. Adebayo", "D": "Mr. Bello", "answer": "A", "explanation": "Mr. Adewale Bepo is the central character and the headmaster of Stardom Schools."},
+
+{"question": "The major setting of the novel is", "A": "Ibadan", "B": "Lekki", "C": "Abuja", "D": "Kano", "answer": "B", "explanation": "Most of the events of the story take place in Lekki."},
+
+{"question": "Stardom Schools is best described as a", "A": "government school", "B": "missionary school", "C": "private school", "D": "community school", "answer": "C", "explanation": "The novel portrays Stardom Schools as a privately owned institution."},
+
+{"question": "Mr. Bepo’s determination to improve the school mainly reflects the theme of", "A": "revenge", "B": "leadership and reform", "C": "romance", "D": "migration", "answer": "B", "explanation": "His actions emphasize responsible leadership and educational reform."},
+
+{"question": "The major challenge faced by Stardom Schools relates to", "A": "lack of teachers", "B": "financial and administrative problems", "C": "student violence", "D": "government closure", "answer": "B", "explanation": "The school struggles mainly with management and financial difficulties."},
+
+{"question": "Mr. Bepo’s leadership is admired because he", "A": "seeks popularity", "B": "encourages corruption", "C": "maintains integrity", "D": "avoids discipline", "answer": "C", "explanation": "His principled leadership makes him stand out in the school."},
+
+{"question": "The resistance Mr. Bepo faces from some staff symbolizes", "A": "fear of change", "B": "lack of intelligence", "C": "student rebellion", "D": "parental neglect", "answer": "A", "explanation": "Many people resist his reforms because they are afraid of change."},
+
+{"question": "The novel mainly criticizes", "A": "urban culture", "B": "poor leadership and corruption", "C": "modern technology", "D": "foreign education", "answer": "B", "explanation": "The story highlights corruption and poor management in institutions."},
+
+{"question": "The setting of Lekki in the novel helps to highlight", "A": "rural farming life", "B": "urban educational challenges", "C": "ancient traditions", "D": "military conflicts", "answer": "B", "explanation": "Lekki represents an urban environment with modern pressures."},
+
+{"question": "Mr. Bepo’s strict discipline policy aims to", "A": "punish students unfairly", "B": "improve academic standards", "C": "reduce enrollment", "D": "please parents", "answer": "B", "explanation": "Discipline is used to raise the school’s academic performance."},
+{"question": "Choose the word that is nearest in meaning to 'generous'.", "A": "selfish", "B": "kind", "C": "stingy", "D": "wicked", "answer": "B", "explanation": "Generous means willing to give or share, which is closest to kind."},
+
+{"question": "Choose the correct option to fill the blank: She has been waiting here ___ two hours.", "A": "since", "B": "for", "C": "during", "D": "from", "answer": "B", "explanation": "'For' is used with a duration of time such as two hours."},
+
+{"question": "Choose the word opposite in meaning to 'scarce'.", "A": "rare", "B": "plenty", "C": "abundant", "D": "little", "answer": "C", "explanation": "Scarce means not enough, while abundant means plentiful."},
+
+{"question": "Select the correct sentence.", "A": "She don't like rice.", "B": "She doesn't likes rice.", "C": "She doesn't like rice.", "D": "She not like rice.", "answer": "C", "explanation": "The correct negative form with 'she' is 'does not (doesn't) like'."},
+
+{"question": "Choose the word that best completes the sentence: The teacher insisted ___ punctuality.", "A": "in", "B": "on", "C": "at", "D": "for", "answer": "B", "explanation": "The correct collocation is 'insist on'."},
+
+{"question": "Identify the correctly spelt word.", "A": "accomodation", "B": "accommodation", "C": "acommodation", "D": "acomodation", "answer": "B", "explanation": "The correct spelling is accommodation."},
+
+{"question": "Choose the word that best completes the sentence: The boy was punished ___ coming late.", "A": "for", "B": "with", "C": "about", "D": "from", "answer": "A", "explanation": "The correct preposition used with punished is 'for'."},
+
+{"question": "Choose the correct indirect speech: He said, 'I am tired.'", "A": "He said that he was tired.", "B": "He says he is tired.", "C": "He said that I am tired.", "D": "He said that he is tired.", "answer": "A", "explanation": "In reported speech, present tense 'am' changes to past tense 'was'."},
+
+{"question": "Choose the word that best completes the sentence: If I ___ you, I would apologize.", "A": "was", "B": "were", "C": "am", "D": "be", "answer": "B", "explanation": "In conditional sentences, 'were' is used instead of 'was'."},
+
+{"question": "Choose the correct meaning of the idiom 'once in a blue moon'.", "A": "very frequently", "B": "every day", "C": "rarely", "D": "twice a day", "answer": "C", "explanation": "The idiom 'once in a blue moon' means something that happens very rarely."},
+
       {"question": "Choose the option opposite in meaning: The man is very **affluent**.", "A": "Wealthy", "B": "Healthy", "C": "Poor", "D": "Famous", "answer": "C", "explanation": "Affluent means rich; the opposite is poor."},
       {"question": "One of the girls ________ lost her bag.", "A": "have", "B": "has", "0": "C. are", "D": "is", "answer": "B", "explanation": "'One of' takes a singular verb."},
       {"question": "Choose the word that rhymes with 'S**ai**d'.", "A": "Paid", "B": "Bed", "C": "Made", "D": "Laid", "answer": "B", "explanation": "'Said' is pronounced /sed/, which rhymes with 'bed'."},
