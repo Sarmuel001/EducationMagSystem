@@ -1,26 +1,70 @@
 {
   "Chemistry": {
     "2021": [
-      {"question": "CONTEXT: Refer to the image showing various organic structures labeled A (CH3CH2CH3), B (CH2=CHCH3), and C (CH3CH2OH).\n\n1. Which of the labeled structures represents an unsaturated hydrocarbon?", "A": "Structure A", "B": "Structure B", "C": "Structure C", "D": "None of them", "answer": "B", "explanation": "Structure B is propene, an alkene, which contains a carbon-carbon double bond."},
-      {"question": "[Refer to context in Q1] What is the IUPAC name for Structure C?", "A": "Ethanol", "B": "Propanol", "C": "Ethanoic acid", "D": "Ethane", "answer": "A", "explanation": "Structure C ($CH_3CH_2OH$) consists of two carbons and a hydroxyl group, making it ethanol."},
-      {"question": "[Refer to context in Q1] Which structure will undergo an addition reaction with Bromine water?", "A": "Structure A", "B": "Structure B", "C": "Structure C", "D": "All of them", "answer": "B", "explanation": "Alkenes (unsaturated) react with bromine water, decolorizing it through addition."},
-      {"question": "[Refer to context in Q1] To which homologous series does Structure A belong?", "A": "Alkanes", "B": "Alkenes", "C": "Alkynes", "D": "Alkanols", "answer": "A", "explanation": "Structure A follows the general formula $C_nH_{2n+2}$ (Propane)."},
-      {"question": "[Refer to context in Q1] Structure C reacts with Sodium metal to release which gas?", "A": "Oxygen", "B": "Carbon dioxide", "C": "Hydrogen", "D": "Nitrogen", "answer": "C", "explanation": "Alcohols react with reactive metals to produce hydrogen gas and an alkoxide."},
-      {"question": "The number of protons in an atom is always equal to its:", "A": "Mass number", "B": "Atomic number", "C": "Number of neutrons", "D": "Valency", "answer": "B", "explanation": "The atomic number uniquely identifies an element by its proton count."},
-      {"question": "A solution that can dissolve no more solute at a given temperature is:", "A": "Saturated", "B": "Unsaturated", "C": "Supersaturated", "D": "Dilute", "answer": "A", "explanation": "Saturation is reached when the rate of dissolution equals the rate of crystallization."} ,
-      {"question": "Which of these gases is the most abundant in the atmosphere?", "A": "Oxygen", "B": "Argon", "C": "Nitrogen", "D": "Carbon dioxide", "answer": "C", "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere."},
-      {"question": "The bond formed by the sharing of electrons between two non-metals is:", "A": "Ionic", "B": "Covalent", "C": "Metallic", "D": "Dative", "answer": "B", "explanation": "Covalent bonding involves the sharing of valence electron pairs."},
-      {"question": "A solution that can dissolve no more solute at a given temperature is:", "A": "Saturated", "B": "Unsaturated", "C": "Supersaturated", "D": "Dilute", "answer": "A", "explanation": "Saturation is reached when the rate of dissolution equals the rate of crystallization."},
-      {"question": "Which of the following is a redox reaction?", "A": "$NaOH + HCl \\rightarrow NaCl + H_2O$", "B": "$Mg + 2HCl \\rightarrow MgCl_2 + H_2$", "C": "$AgNO_3 + NaCl \\rightarrow AgCl + NaNO_3$", "D": "$CaCO_3 \\rightarrow CaO + CO_2$", "answer": "B", "explanation": "The oxidation state of Mg changes from 0 to +2, and H changes from +1 to 0."},
-      {"question": "The kinetic theory of gases assumes that collisions between molecules are:", "A": "Inelastic", "B": "Perfectly elastic", "C": "Rare", "D": "Slow", "answer": "B", "explanation": "Elastic collisions mean no kinetic energy is lost to the surroundings."},
-      {"question": "In the extraction of Aluminum, the electrolyte is a solution of Alumina in:", "A": "Molten Cryolite", "B": "Water", "C": "Caustic Soda", "D": "Sulfuric Acid", "answer": "A", "explanation": "Cryolite lowers the melting point of alumina and improves conductivity."},
-      {"question": "What is the color of phenolphthalein in an alkaline solution?", "A": "Colorless", "B": "Pink", "C": "Yellow", "D": "Blue", "answer": "B", "explanation": "Phenolphthalein turns pink/magenta in bases and is colorless in acids."},
-      {"question": "Identify the element with the electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^5$.", "A": "Fluorine", "B": "Chlorine", "C": "Sulfur", "D": "Argon", "answer": "B", "explanation": "The total number of electrons is 17, which corresponds to Chlorine."},
-      {"question": "Which of these is a heavy metal?", "A": "Sodium", "B": "Lead", "C": "Magnesium", "D": "Potassium", "answer": "B", "explanation": "Lead is a high-density, toxic heavy metal."},
-      {"question": "The process of a solid changing directly into a gas is:", "A": "Evaporation", "B": "Sublimation", "C": "Melting", "D": "Condensation", "answer": "B", "explanation": "Examples include Iodine crystals and Ammonium Chloride."},
-      {"question": "Which particle is identical to a Beta particle?", "A": "Proton", "B": "Neutron", "C": "Electron", "D": "Helium nucleus", "answer": "C", "explanation": "Beta decay involves the emission of a high-energy electron from the nucleus."},
-      {"question": "The boiling point of a liquid is the temperature at which its vapor pressure equals:", "A": "Zero", "B": "Atmospheric pressure", "C": "Osmotic pressure", "D": "Standard pressure", "answer": "B", "explanation": "At this point, molecules throughout the liquid have enough energy to become gas."},
-      {"question": "Which of the following is a greenhouse gas?", "A": "Methane", "B": "Helium", "C": "Neon", "D": "Oxygen", "answer": "A", "explanation": "Methane ($CH_4$) is a potent greenhouse gas that contributes to global warming."}
+  
+{"question": "Which of the following is a noble gas?", "A": "O₂", "B": "N₂", "C": "Ne", "D": "Cl₂", "answer": "C", "explanation": "Neon (Ne) is a noble gas with complete outer electron shell."},
+
+{"question": "What is the molar mass of H₂SO₄?", "A": "98 g/mol", "B": "100 g/mol", "C": "96 g/mol", "D": "102 g/mol", "answer": "A", "explanation": "H₂SO₄ = 2(1) + 32 + 4(16) = 98 g/mol."},
+
+{"question": "Which of the following is an exothermic reaction?", "A": "Photosynthesis", "B": "Combustion of methane", "C": "Electrolysis of water", "D": "Dissolving NH₄Cl in water", "answer": "B", "explanation": "Combustion releases heat energy, making it exothermic."},
+
+{"question": "Which of these is an alkali metal?", "A": "Mg", "B": "K", "C": "Al", "D": "Ca", "answer": "B", "explanation": "Potassium (K) is in Group 1 (alkali metals)."}, 
+
+{"question": "The pH of a neutral solution at 25°C is:", "A": "0", "B": "7", "C": "14", "D": "1", "answer": "B", "explanation": "Neutral water has pH = 7 at 25°C."},
+
+{"question": "Which of these compounds is covalent?", "A": "NaCl", "B": "H₂O", "C": "CaO", "D": "KBr", "answer": "B", "explanation": "Water (H₂O) is made of shared electrons between H and O (covalent bond)."},
+
+{"question": "The empirical formula of glucose C₆H₁₂O₆ is:", "A": "CH₂O", "B": "C₃H₆O₃", "C": "C₆H₁₂O₆", "D": "CH₃O", "answer": "A", "explanation": "Divide all subscripts by 6: C₆H₁₂O₆ → CH₂O."},
+
+{"question": "What type of reaction is Zn + 2HCl → ZnCl₂ + H₂?", "A": "Displacement", "B": "Combination", "C": "Decomposition", "D": "Redox", "answer": "A", "explanation": "Zinc displaces hydrogen from HCl, so it's a displacement reaction."},
+
+{"question": "Which of the following is an amphoteric oxide?", "A": "Na₂O", "B": "Al₂O₃", "C": "SO₃", "D": "CO₂", "answer": "B", "explanation": "Aluminium oxide reacts with both acids and bases."},
+
+{"question": "Which gas is collected by upward delivery?", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "NH₃", "answer": "D", "explanation": "Ammonia is less dense than air, so it is collected by upward delivery."},
+
+{"question": "The oxidation number of sulfur in H₂SO₄ is:", "A": "+4", "B": "+6", "C": "+2", "D": +1, "answer": "B", "explanation": "Let x = oxidation number of S: 2(+1) + x + 4(-2) = 0 ⇒ x = +6."},
+
+{"question": "Which of the following is a strong acid?", "A": "HCl", "B": "CH₃COOH", "C": "H₂CO₃", "D": "HF", "answer": "A", "explanation": "HCl dissociates completely in water, making it a strong acid."},
+
+{"question": "Which element has the highest electronegativity?", "A": "F", "B": "O", "C": "N", "D": "Cl", "answer": "A", "explanation": "Fluorine has the highest electronegativity in the periodic table."},
+
+{"question": "The gas produced when Zn reacts with HCl is:", "A": "O₂", "B": "H₂", "C": "Cl₂", "D": "CO₂", "answer": "B", "explanation": "Zn + 2HCl → ZnCl₂ + H₂; hydrogen gas is evolved."},
+
+{"question": "Which of these is a reducing sugar?", "A": "Glucose", "B": "Sucrose", "C": "Starch", "D": "Cellulose", "answer": "A", "explanation": "Glucose can reduce Fehling's solution, making it a reducing sugar."},
+
+{"question": "The gas that turns lime water milky is:", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "N₂", "answer": "B", "explanation": "CO₂ reacts with Ca(OH)₂ to form CaCO₃ (white precipitate)."}, 
+
+{"question": "Which of the following is a diatomic molecule?", "A": "CO₂", "B": "O₂", "C": "CH₄", "D": "NaCl", "answer": "B", "explanation": "Oxygen exists as O₂ naturally (diatomic)."}, 
+
+{"question": "What volume of H₂ gas (at STP) is produced when 4 g of Zn reacts with excess HCl?", "A": "0.5 dm³", "B": "1 dm³", "C": "1.12 dm³", "D": "2 dm³", "answer": "C", "explanation": "Zn + 2HCl → ZnCl₂ + H₂. Moles of Zn = 4/65 ≈ 0.0615. At STP, 1 mol gas = 22.4 dm³ → V = 0.0615 × 22.4 ≈ 1.38 dm³."},
+
+{"question": "Which substance is used as a primary standard in acid-base titration?", "A": "NaOH", "B": "HCl", "C": "KHP (Potassium hydrogen phthalate)", "D": "NH₃", "answer": "C", "explanation": "KHP is pure, stable, and can be weighed accurately."},
+
+{"question": "Which of these is a halogen?", "A": "Na", "B": "F", "C": "O", "D": "H", "answer": "B", "explanation": "Fluorine (F) is a Group 17 halogen."},
+
+{"question": "The process of converting a liquid to vapor is:", "A": "Condensation", "B": "Evaporation", "C": "Sublimation", "D": "Freezing", "answer": "B", "explanation": "Evaporation is liquid → vapor."},
+
+{"question": "Which of these compounds is ionic?", "A": "NaCl", "B": "CO₂", "C": "H₂O", "D": "CH₄", "answer": "A", "explanation": "NaCl consists of Na⁺ and Cl⁻ ions."},
+
+{"question": "Which of the following is a strong base?", "A": "NH₄OH", "B": "NaOH", "C": "CH₃NH₂", "D": "Al(OH)₃", "answer": "B", "explanation": "NaOH dissociates completely in water."},
+
+{"question": "Which element is liquid at room temperature?", "A": "Bromine (Br₂)", "B": "Chlorine (Cl₂)", "C": "Fluorine (F₂)", "D": "Iodine (I₂)", "answer": "A", "explanation": "Bromine is a reddish-brown liquid at 25°C."},
+
+{"question": "Which type of bond is present in HCl?", "A": "Covalent", "B": "Ionic", "C": "Metallic", "D": "Hydrogen", "answer": "A", "explanation": "HCl shares electrons between H and Cl → covalent bond."},
+
+{"question": "Which process separates a mixture of sand and salt?", "A": "Filtration", "B": "Distillation", "C": "Evaporation", "D": "Chromatography", "answer": "C", "explanation": "Salt dissolves in water; sand does not. Evaporating water leaves salt."},
+
+{"question": "Which element has atomic number 8?", "A": "Nitrogen", "B": "Oxygen", "C": "Fluorine", "D": "Carbon", "answer": "B", "explanation": "Oxygen has atomic number 8."},
+
+{"question": "Which of the following reacts with water to produce H₂ gas?", "A": "Na", "B": "Mg", "C": "Fe", "D": "Cu", "answer": "A", "explanation": "Sodium reacts vigorously with water to give hydrogen."},
+
+{"question": "The formula of bleaching powder is:", "A": "CaOCl₂", "B": "Ca(ClO)₂", "C": "CaCl₂", "D": "Cl₂", "answer": "B", "explanation": "Bleaching powder = Calcium hypochlorite, Ca(ClO)₂."},
+
+{"question": "Which of these metals is extracted by electrolysis?", "A": "Iron", "B": "Aluminium", "C": "Zinc", "D": "Tin", "answer": "B", "explanation": "Aluminium is extracted from Al₂O₃ by electrolysis."},
+
+{"question": "Which gas is given off when acids react with carbonates?", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "Cl₂", "answer": "B", "explanation": "Acid + carbonate → CO₂ gas evolves."},
+
+{"question": "Which of the following is a saturated hydrocarbon?", "A": "CH₄", "B": "C₂H₄", "C": "C₂H₂", "D": "C₃H₆", "answer": "A", "explanation": "CH₄ contains only single bonds → saturated hydrocarbon."}
     ],
     "2022": [
       {"question": "CONTEXT: The diagram shows a titration setup where $0.1\\,mol/dm^3$ $NaOH$ is in the burette and $25\\,cm^3$ of $HCl$ is in the conical flask.\n\n1. What is the name of the apparatus held by the stand?", "A": "Pipette", "B": "Burette", "C": "Measuring cylinder", "D": "Retort flask", "answer": "B", "explanation": "A burette is used to deliver precise, variable volumes of liquid."},
