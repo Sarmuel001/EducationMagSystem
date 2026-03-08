@@ -1,27 +1,84 @@
 {
   "Mathematics": {
     "2021": [
-      {"question": "CONTEXT: Consider the set of numbers: $S = \\{2, 4, 8, 16, x, 64\\}$. These numbers follow a geometric progression (G.P.).\n\n1. What is the common ratio ($r$) of the sequence?", "A": "2", "B": "4", "C": "8", "D": "0.5", "answer": "A", "explanation": "The common ratio $r = \\frac{4}{2} = 2$."},
-      {"question": "[Refer to context in Q1] Find the value of $x$.", "A": "24", "B": "32", "C": "40", "D": "48", "answer": "B", "explanation": "In a G.P., $x = 16 \\times 2 = 32$."},
-      {"question": "[Refer to context in Q1] What is the 8th term of this sequence?", "A": "128", "B": "256", "C": "512", "D": "1024", "answer": "B", "explanation": "Using $T_n = ar^{n-1}$: $2(2^7) = 2^8 = 256$."},
-      {"question": "[Refer to context in Q1] Find the sum of the first 5 terms.", "A": "30", "B": "62", "C": "64", "D": "126", "answer": "B", "explanation": "Sum $S_n = \\frac{a(r^n - 1)}{r - 1} = \\frac{2(2^5 - 1)}{2 - 1} = 2(31) = 62$."},
-      {"question": "[Refer to context in Q1] If the sequence were Arithmetic (A.P.) with $a=2$ and $d=2$, what would the 5th term be?", "A": "8", "B": "10", "C": "12", "D": "14", "answer": "B", "explanation": "$T_5 = a + 4d = 2 + 4(2) = 10$."},
-      {"question": "Convert $11011_2$ to base 10.", "A": "25", "B": "27", "C": "29", "D": "31", "answer": "B", "explanation": "$1(2^4) + 1(2^3) + 0(2^2) + 1(2^1) + 1(2^0) = 16+8+0+2+1 = 27$."},
-      {"question": "Solve for $x$: $log_{10}(x+3) + log_{10}(x-3) = log_{10}(16)$.", "A": "5", "B": "7", "C": "9", "D": "25", "answer": "A", "explanation": "$log((x+3)(x-3)) = log(16) \\Rightarrow x^2 - 9 = 16 \\Rightarrow x^2 = 25 \\Rightarrow x = 5$."},
-      {"question": "If $y$ is inversely proportional to $x$ and $y=4$ when $x=3$, find $y$ when $x=6$.", "A": "2", "B": "8", "C": "12", "D": "24", "answer": "A", "explanation": "$y = \\frac{k}{x} \\Rightarrow 4 = \\frac{k}{3} \\Rightarrow k=12$. When $x=6, y = \\frac{12}{6} = 2$."},
-      {"question": "Find the gradient of the line $2y - 4x = 8$.", "A": "-2", "B": "2", "C": "4", "D": "8", "answer": "B", "explanation": "Rearrange to $y = mx + c$: $2y = 4x + 8 \\Rightarrow y = 2x + 4$. Gradient $m = 2$."},
-      {"question": "Find the sum of the interior angles of a pentagon.", "A": "180°", "B": "360°", "C": "540°", "D": "720°", "answer": "C", "explanation": "Sum $= (n-2) \\times 180 = (5-2) \\times 180 = 540$."},
-      {"question": "Differentiate $y = 3x^2 + 5x - 2$ with respect to $x$.", "A": "6x + 5", "B": "6x - 2", "C": "3x + 5", "D": "x^2 + 5", "answer": "A", "explanation": "Using the power rule: $\\frac{dy}{dx} = 2(3)x^{2-1} + 1(5)x^{1-1} = 6x + 5$."},
-      {"question": "Solve the quadratic equation $x^2 - 5x + 6 = 0$.", "A": "x=2, 3", "B": "x=-2, -3", "C": "x=1, 6", "D": "x=-1, -6", "answer": "A", "explanation": "$(x-2)(x-3) = 0 \\Rightarrow x=2 \\text{ or } 3$."},
-      {"question": "Find the median of the data: 7, 3, 8, 5, 2, 9, 6.", "A": "5", "B": "6", "C": "7", "D": "8", "answer": "B", "explanation": "Arranged: 2, 3, 5, 6, 7, 8, 9. The middle value is 6."},
-      {"question": "In a class of 40, 25 speak Igbo and 20 speak Yoruba. If 10 speak both, how many speak neither?", "A": "5", "B": "10", "C": "15", "D": "35", "answer": "A", "explanation": "$n(I \\cup Y) = 15(only I) + 10(both) + 10(only Y) = 35$. Neither $= 40 - 35 = 5$."},
-      {"question": "Find the value of $sin(30°) + cos(60°)$.", "A": "0.5", "B": "1", "C": "1.5", "D": "2", "answer": "B", "explanation": "$0.5 + 0.5 = 1$."},
-      {"question": "If the mean of 4, 7, 8, and $x$ is 7, find $x$.", "A": "7", "B": "8", "C": "9", "D": "10", "answer": "C", "explanation": "$\\frac{4+7+8+x}{4} = 7 \\Rightarrow 19 + x = 28 \\Rightarrow x = 9$."},
-      {"question": "Simplify $\\sqrt{75} - \\sqrt{27}$.", "A": "2$\\sqrt{3}$", "B": "3$\\sqrt{3}$", "C": "5$\\sqrt{3}$", "D": "8$\\sqrt{3}$", "answer": "A", "explanation": "$5\\sqrt{3} - 3\\sqrt{3} = 2\\sqrt{3}$."},
-      {"question": "Find the area of a circle with radius 7cm (Use $\\pi = \\frac{22}{7}$).", "A": "44cm²", "B": "77cm²", "C": "154cm²", "D": "308cm²", "answer": "C", "explanation": "$Area = \\pi r^2 = \\frac{22}{7} \\times 7 \\times 7 = 154$."},
-      {"question": "A bag contains 3 red balls and 5 blue balls. If a ball is picked at random, what is the probability it is red?", "A": "3/5", "B": "5/8", "C": "3/8", "D": "1/2", "answer": "C", "explanation": "$P(Red) = \\frac{\\text{Number of red balls}}{\\text{Total balls}} = \\frac{3}{3+5} = \\frac{3}{8}$."},
-      {"question": "Solve for $x$: $2^{x+1} = 32$.", "A": "3", "B": "4", "C": "5", "D": "6", "answer": "B", "explanation": "$2^{x+1} = 2^5 \\Rightarrow x+1 = 5 \\Rightarrow x=4$."}
-    ],
+            
+{"question": "Solve the inequality 3x − 7 > 5.", "A": "x > 4", "B": "x > 3", "C": "x > 2", "D": "x > 1", "answer": "A", "explanation": "3x − 7 > 5 ⇒ 3x > 12 ⇒ x > 4."},
+
+{"question": "If log₁₀ 100 = 2, evaluate log₁₀ 10.", "A": "0", "B": "1", "C": "2", "D": "10", "answer": "B", "explanation": "log₁₀ 10 = 1 because 10¹ = 10."},
+
+{"question": "Simplify √72.", "A": "6√2", "B": "4√2", "C": "3√2", "D": "12√2", "answer": "A", "explanation": "√72 = √(36×2) = 6√2."},
+
+{"question": "Find the sum of the first 10 natural numbers.", "A": "45", "B": "50", "C": "55", "D": "60", "answer": "C", "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55."},
+
+{"question": "Evaluate 3² + 4².", "A": "25", "B": "16", "C": "20", "D": "24", "answer": "A", "explanation": "3² = 9 and 4² = 16. Sum = 25."},
+
+{"question": "Find the probability of selecting a vowel from the word 'MATH'.", "A": "1/4", "B": "1/2", "C": "3/4", "D": "1", "answer": "A", "explanation": "Only one vowel (A) out of four letters."},
+
+{"question": "Evaluate √256.", "A": "14", "B": "15", "C": "16", "D": "18", "answer": "C", "explanation": "16 × 16 = 256."},
+
+{"question": "Find the perimeter of a rectangle with length 12 cm and width 5 cm.", "A": "34 cm", "B": "30 cm", "C": "24 cm", "D": "40 cm", "answer": "A", "explanation": "Perimeter = 2(l + w) = 2(12 + 5) = 34 cm."},
+
+{"question": "Evaluate 5³.", "A": "25", "B": "75", "C": "125", "D": "100", "answer": "C", "explanation": "5³ = 5×5×5 = 125."},
+
+{"question": "If cos θ = 0, find θ.", "A": "0°", "B": "90°", "C": "45°", "D": "30°", "answer": "B", "explanation": "Cosine of 90° equals 0."},
+
+{"question": "Find √196.", "A": "12", "B": "13", "C": "14", "D": "15", "answer": "C", "explanation": "14 × 14 = 196."},
+
+{"question": "If the radius of a circle is doubled, the area becomes:", "A": "2 times", "B": "3 times", "C": "4 times", "D": "8 times", "answer": "C", "explanation": "Area ∝ r², doubling r multiplies area by 4."},
+
+{"question": "Evaluate 7².", "A": "42", "B": "49", "C": "56", "D": "64", "answer": "B", "explanation": "7 × 7 = 49."},
+
+{"question": "Find the median of the numbers 2, 4, 6, 8, 10.", "A": "4", "B": "5", "C": "6", "D": "7", "answer": "C", "explanation": "The middle number in ordered data is 6."},
+
+{"question": "Simplify 2⁵ ÷ 2².", "A": "2³", "B": "2⁷", "C": "2²", "D": "2⁵", "answer": "A", "explanation": "Indices rule: subtract powers → 2⁵ ÷ 2² = 2³."},
+
+{"question": "Find √400.", "A": "18", "B": "19", "C": "20", "D": "21", "answer": "C", "explanation": "20 × 20 = 400."},
+
+{"question": "Solve 7x = 63.", "A": "7", "B": "8", "C": "9", "D": "6", "answer": "C", "explanation": "x = 63 / 7 = 9."},
+
+{"question": "Find the area of a triangle with base 10 cm and height 6 cm.", "A": "30 cm²", "B": "60 cm²", "C": "20 cm²", "D": "36 cm²", "answer": "A", "explanation": "Area = 1/2 × base × height = 1/2 × 10 × 6 = 30 cm²."},
+
+{"question": "Evaluate 8².", "A": "16", "B": "32", "C": "48", "D": "64", "answer": "D", "explanation": "8 × 8 = 64."},
+
+{"question": "Find √324.", "A": "16", "B": "17", "C": "18", "D": "19", "answer": "C", "explanation": "18 × 18 = 324."},
+
+{"question": "Find the mean of 5, 7, 9.", "A": "6", "B": "7", "C": "8", "D": "9", "answer": "B", "explanation": "Mean = (5 + 7 + 9) / 3 = 7."},
+
+{"question": "Evaluate 9².", "A": "72", "B": "81", "C": "90", "D": "99", "answer": "B", "explanation": "9 × 9 = 81."},
+
+{"question": "Find √361.", "A": "17", "B": "18", "C": "19", "D": "20", "answer": "C", "explanation": "19 × 19 = 361."},
+
+{"question": "Solve x + 9 = 15.", "A": "4", "B": "5", "C": "6", "D": "7", "answer": "C", "explanation": "x = 15 − 9 = 6."},
+
+{"question": "Evaluate 12².", "A": "124", "B": "144", "C": "132", "D": "156", "answer": "B", "explanation": "12 × 12 = 144."},
+
+{"question": "Find the diameter of a circle with radius 7 cm.", "A": "7 cm", "B": "14 cm", "C": "21 cm", "D": "28 cm", "answer": "B", "explanation": "Diameter = 2r = 14 cm."},
+
+{"question": "Evaluate 10² − 6².", "A": "64", "B": "36", "C": "48", "D": "72", "answer": "A", "explanation": "100 − 36 = 64."},
+
+{"question": "Find √441.", "A": "19", "B": "20", "C": "21", "D": "22", "answer": "C", "explanation": "21 × 21 = 441."},
+
+{"question": "Find the sum of the first 5 even numbers.", "A": "20", "B": "30", "C": "40", "D": "50", "answer": "B", "explanation": "2 + 4 + 6 + 8 + 10 = 30."},
+
+{"question": "Evaluate 15².", "A": "205", "B": "215", "C": "225", "D": "235", "answer": "C", "explanation": "15 × 15 = 225."},
+    {"question": "Solve the inequality 3x − 7 > 5.", "A": "x > 4", "B": "x > 3", "C": "x > 2", "D": "x > 1", "answer": "A", "explanation": "3x − 7 > 5 ⇒ 3x > 12 ⇒ x > 4."},
+
+{"question": "If log₁₀ 100 = 2, evaluate log₁₀ 10.", "A": "0", "B": "1", "C": "2", "D": "10", "answer": "B", "explanation": "log₁₀ 10 = 1 because 10¹ = 10."},
+
+{"question": "Simplify √72.", "A": "6√2", "B": "4√2", "C": "3√2", "D": "12√2", "answer": "A", "explanation": "√72 = √(36×2) = 6√2."},
+
+{"question": "Find the sum of the first 10 natural numbers.", "A": "45", "B": "50", "C": "55", "D": "60", "answer": "C", "explanation": "Sum = n(n+1)/2 = 10(11)/2 = 55."},
+
+{"question": "Evaluate 3² + 4².", "A": "25", "B": "16", "C": "20", "D": "24", "answer": "A", "explanation": "3² = 9 and 4² = 16. Sum = 25."},
+
+{"question": "Find the probability of selecting a vowel from the word 'MATH'.", "A": "1/4", "B": "1/2", "C": "3/4", "D": "1", "answer": "A", "explanation": "Only one vowel (A) out of four letters."},
+
+{"question": "Evaluate √256.", "A": "14", "B": "15", "C": "16", "D": "18", "answer": "C", "explanation": "16 × 16 = 256."},
+
+{"question": "Find the perimeter of a rectangle with length 12 cm and width 5 cm.", "A": "34 cm", "B": "30 cm", "C": "24 cm", "D": "40 cm", "answer": "A", "explanation": "Perimeter = 2(l + w) = 2(12 + 5) = 34 cm."},
+
+{"question": "Evaluate 5³.", "A": "25", "B": "75", "C": "125", "D": "100", "answer": "C", "explanation": "5³ = 5×5×5 = 125."},
+],
     "2022": [
       
 {"question": "Solve the inequality 3x − 7 > 5.", "A": "x > 4", "B": "x > 3", "C": "x > 2", "D": "x > 1", "answer": "A", "explanation": "3x − 7 > 5 ⇒ 3x > 12 ⇒ x > 4."},
