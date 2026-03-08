@@ -22,7 +22,7 @@
 
 {"question": "Which gas is collected by upward delivery?", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "NH₃", "answer": "D", "explanation": "Ammonia is less dense than air, so it is collected by upward delivery."},
 
-{"question": "The oxidation number of sulfur in H₂SO₄ is:", "A": "+4", "B": "+6", "C": "+2", "D": +1, "answer": "B", "explanation": "Let x = oxidation number of S: 2(+1) + x + 4(-2) = 0 ⇒ x = +6."},
+{"question": "The oxidation number of sulfur in H₂SO₄ is:", "A": "+4", "B": "+6", "C": "+2", "D": "+1", "answer": "B", "explanation": "Let x = oxidation number of S: 2(+1) + x + 4(-2) = 0 ⇒ x = +6."},
 
 {"question": "Which of the following is a strong acid?", "A": "HCl", "B": "CH₃COOH", "C": "H₂CO₃", "D": "HF", "answer": "A", "explanation": "HCl dissociates completely in water, making it a strong acid."},
 
