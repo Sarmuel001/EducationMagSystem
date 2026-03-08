@@ -1,27 +1,72 @@
 {
   "Physics":{
     "2021": [
-      {"id": 1, "question": "A car starts from rest and accelerates uniformly at 2 m/s^2 for 10 seconds. Calculate the distance covered.", "A": "100 m", "B": "200 m", "C": "20 m", "D": "50 m", "answer": "A", "explanation": "Using s = ut + 1/2at^2. Since u=0, s = 0.5 * 2 * 10^2 = 100m."},
-      {"id": 2, "question": "Which of the following is a scalar quantity?", "A": "Force", "B": "Weight", "C": "Mass", "D": "Acceleration", "answer": "C", "explanation": "Mass has only magnitude, while the others are vectors."},
-      {"id": 3, "question": "The SI unit of Work is:", "A": "Newton", "B": "Watt", "C": "Joule", "D": "Pascal", "answer": "C", "explanation": "Work and Energy are both measured in Joules."},
-      {"id": 4, "question": "A body of mass 5kg is moving with a velocity of 4 m/s. Calculate its kinetic energy.", "A": "20 J", "B": "40 J", "C": "80 J", "D": "10 J", "answer": "B", "explanation": "K.E = 1/2 mv^2 = 0.5 * 5 * 4^2 = 0.5 * 5 * 16 = 40J."},
-      {"id": 5, "question": "The temperature at which water is densest is:", "A": "0 degrees Celsius", "B": "100 degrees Celsius", "C": "4 degrees Celsius", "D": "-4 degrees Celsius", "answer": "C", "explanation": "Water reaches maximum density at 4 degrees Celsius."},
-      {"id": 6, "question": "What is the frequency of a wave with a period of 0.02 seconds?", "A": "20 Hz", "B": "50 Hz", "C": "100 Hz", "D": "5 Hz", "answer": "B", "explanation": "Frequency f = 1/T = 1 / 0.02 = 50Hz."},
-      {"id": 7, "question": "The process by which heat travels through a vacuum is:", "A": "Conduction", "B": "Convection", "C": "Radiation", "D": "Evaporation", "answer": "C", "explanation": "Radiation does not require a medium to travel."},
-      {"id": 8, "question": "A convex mirror is used as a driving mirror because it:", "A": "Magnifies objects", "B": "Provides an upright, diminished image", "C": "Inverts the image", "D": "Has a narrow field of view", "answer": "B", "explanation": "It provides a wider field of view by producing smaller, upright images."},
-      {"id": 9, "question": "The fundamental frequency of a string is 250 Hz. Calculate the third harmonic frequency.", "A": "500 Hz", "B": "750 Hz", "C": "1000 Hz", "D": "125 Hz", "answer": "B", "explanation": "Third harmonic = 3 * fundamental = 3 * 250 = 750Hz."},
-      {"id": 10, "question": "Ohms law states that V = IR. What does 'R' represent?", "A": "Current", "B": "Voltage", "C": "Resistance", "0": "Capacitance", "answer": "C", "explanation": "R is the electrical resistance of the conductor."},
-      {"id": 11, "question": "A force of 20N moves a body through a distance of 5m in the direction of the force. Work done is:", "A": "4 J", "B": "100 J", "C": "25 J", "D": "15 J", "answer": "B", "explanation": "Work = Force * Distance = 20 * 5 = 100J."},
-      {"id": 12, "question": "Which instrument is used to measure atmospheric pressure?", "A": "Thermometer", "B": "Barometer", "C": "Hygrometer", "D": "Anemometer", "answer": "B", "explanation": "A barometer measures air pressure."},
-      {"id": 13, "question": "The change in direction of light as it passes from one medium to another is:", "A": "Reflection", "B": "Refraction", "C": "Diffraction", "D": "Polarization", "answer": "B", "explanation": "Refraction is caused by the change in speed of light between media."},
-      {"id": 14, "question": "An object floats in a liquid when its weight is:", "A": "Greater than upthrust", "B": "Less than upthrust", "C": "Equal to the upthrust", "D": "Zero", "answer": "C", "explanation": "According to Archimedes' principle, floating occurs when weight equals upthrust."},
-      {"id": 15, "question": "The property of a body to resist a change in its state of rest or motion is:", "A": "Momentum", "B": "Inertia", "C": "Friction", "D": "Velocity", "answer": "B", "explanation": "Inertia is directly proportional to mass."},
-      {"id": 16, "question": "Calculate the power of a pump that lifts 100kg of water through 10m in 10s. (g = 10 m/s^2)", "A": "1000 W", "B": "100 W", "C": "10,000 W", "D": "500 W", "answer": "A", "explanation": "Power = (mgh) / t = (100 * 10 * 10) / 10 = 1000W."},
-      {"id": 17, "question": "Which type of lens is used to correct nearsightedness (myopia)?", "A": "Convex", "B": "Concave", "C": "Bifocal", "D": "Cylindrical", "answer": "B", "explanation": "Concave (diverging) lenses help move the image back onto the retina."},
-      {"id": 18, "question": "The unit of electric charge is:", "A": "Ampere", "B": "Volt", "C": "Coulomb", "D": "Farad", "answer": "C", "explanation": "Charge is measured in Coulombs."},
-      {"id": 19, "question": "The melting point of pure ice is:", "A": "273 K", "B": "373 K", "C": "0 K", "D": "100 K", "answer": "A", "explanation": "0 Celsius is equal to 273 Kelvin."},
-      {"id": 20, "question": "Which wave requires a material medium for propagation?", "A": "Light waves", "B": "Radio waves", "C": "Sound waves", "D": "X-rays", "answer": "C", "explanation": "Sound is a mechanical wave and cannot travel through a vacuum."}
-    ],
+      
+{"question": "A car accelerates uniformly from rest to 20 m/s in 10 s. Find its acceleration.", "A": "1 m/s²", "B": "2 m/s²", "C": "0.5 m/s²", "D": "5 m/s²", "answer": "B", "explanation": "Acceleration a = Δv/Δt = (20 − 0)/10 = 2 m/s²."},
+
+{"question": "A body of mass 5 kg is acted upon by a force of 20 N. Find its acceleration.", "A": "2 m/s²", "B": "3 m/s²", "C": "4 m/s²", "D": "5 m/s²", "answer": "C", "explanation": "F = ma → a = F/m = 20/5 = 4 m/s²."},
+
+{"question": "Which of the following is a scalar quantity?", "A": "Velocity", "B": "Acceleration", "C": "Speed", "D": "Displacement", "answer": "C", "explanation": "Speed has magnitude only; others are vectors."},
+
+{"question": "The S.I unit of force is:", "A": "N", "B": "kg", "C": "J", "D": "W", "answer": "A", "explanation": "Force unit is Newton (N). 1 N = 1 kg·m/s²."},
+
+{"question": "The resistance of a conductor is 10 Ω. If the current through it is 2 A, find the voltage across it.", "A": "10 V", "B": "15 V", "C": "20 V", "D": "5 V", "answer": "C", "explanation": "V = IR = 2 × 10 = 20 V."},
+
+{"question": "The period of a pendulum is 2 s. Find its frequency.", "A": "0.25 Hz", "B": "0.5 Hz", "C": "1 Hz", "D": "2 Hz", "answer": "B", "explanation": "f = 1/T = 1/2 = 0.5 Hz."},
+
+{"question": "Which of the following quantities is vector?", "A": "Work", "B": "Energy", "C": "Force", "D": "Power", "answer": "C", "explanation": "Force has magnitude and direction → vector."},
+
+{"question": "The kinetic energy of a body of mass 2 kg moving at 3 m/s is:", "A": "6 J", "B": "9 J", "C": "12 J", "D": "18 J", "answer": "B", "explanation": "KE = 1/2 mv² = 0.5 × 2 × 3² = 9 J."},
+
+{"question": "The gravitational potential energy of a 5 kg body at a height of 10 m (g = 10 m/s²) is:", "A": "50 J", "B": "100 J", "C": "500 J", "D": "250 J", "answer": "C", "explanation": "GPE = mgh = 5 × 10 × 10 = 500 J."},
+
+{"question": "A wave has a frequency of 50 Hz and wavelength 2 m. Find its speed.", "A": "25 m/s", "B": "50 m/s", "C": "100 m/s", "D": "200 m/s", "answer": "C", "explanation": "v = fλ = 50 × 2 = 100 m/s."},
+
+{"question": "Which law states V = IR?", "A": "Ohm's law", "B": "Newton’s first law", "C": "Hooke's law", "D": "Faraday’s law", "answer": "A", "explanation": "Ohm's law: voltage across a resistor = current × resistance."},
+
+{"question": "A force of 10 N acts on a body for 5 s. Find the impulse.", "A": "10 Ns", "B": "15 Ns", "C": "50 Ns", "D": "5 Ns", "answer": "C", "explanation": "Impulse = F × t = 10 × 5 = 50 Ns."},
+
+{"question": "Which of the following is a derived quantity?", "A": "Mass", "B": "Length", "C": "Speed", "D": "Time", "answer": "C", "explanation": "Speed = distance/time, derived from base quantities."},
+
+{"question": "The power of a lens that forms a virtual image at 25 cm is:", "A": "4 D", "B": "8 D", "C": "12 D", "D": "16 D", "answer": "A", "explanation": "P = 100/f(cm) → f = 25 cm → P = 100/25 = 4 D."},
+
+{"question": "A body moves with uniform velocity. Its acceleration is:", "A": "Zero", "B": "Positive", "C": "Negative", "D": "Variable", "answer": "A", "explanation": "Uniform velocity → no change in speed → acceleration = 0."},
+
+{"question": "Which of these is a vector quantity?", "A": "Distance", "B": "Speed", "C": "Velocity", "D": "Time", "answer": "C", "explanation": "Velocity has magnitude and direction."},
+
+{"question": "The S.I unit of pressure is:", "A": "Pa", "B": "N", "C": "J", "D": "W", "answer": "A", "explanation": "Pressure = Force/Area; unit = Pascal (Pa) = N/m²."},
+
+{"question": "The resultant of two equal forces acting at 90° to each other is:", "A": "F", "B": "F√2", "C": "2F", "D": "F/√2", "answer": "B", "explanation": "R = √(F² + F²) = F√2."},
+
+{"question": "If a body weighs 50 N on Earth, its mass is:", "A": "5 kg", "B": "10 kg", "C": "20 kg", "D": "50 kg", "answer": "B", "explanation": "Weight W = mg → m = W/g = 50/5 ≈ 10 kg."},
+
+{"question": "Which of these is a contact force?", "A": "Gravitational force", "B": "Friction", "C": "Magnetic force", "D": "Electrostatic force", "answer": "B", "explanation": "Friction requires physical contact."},
+
+{"question": "A lens forms a real image. The image is:", "A": "Always upright", "B": "Always inverted", "C": "Always virtual", "D": "Magnified only", "answer": "B", "explanation": "Real images formed by convex lens are inverted."},
+
+{"question": "An object is dropped from a height of 20 m. Find the time to reach the ground (g = 10 m/s²).", "A": "1 s", "B": "2 s", "C": "3 s", "D": "4 s", "answer": "B", "explanation": "s = 1/2 g t² → t² = 2s/g = 40/10 = 4 → t = 2 s."},
+
+{"question": "A spring stretches by 0.2 m when a force of 10 N is applied. Find its force constant.", "A": "20 N/m", "B": "50 N/m", "C": "10 N/m", "D": "5 N/m", "answer": "B", "explanation": "Hooke’s law: F = kx → k = F/x = 10/0.2 = 50 N/m."},
+
+{"question": "The acceleration due to gravity on the Moon is approximately:", "A": "9.8 m/s²", "B": "1.6 m/s²", "C": "3.7 m/s²", "D": "0 m/s²", "answer": "B", "explanation": "Moon’s gravity is ~1/6 of Earth → 1.6 m/s²."},
+
+{"question": "A body of mass 2 kg is moving at 3 m/s. Its momentum is:", "A": "5 kg·m/s", "B": "6 kg·m/s", "C": "3 kg·m/s", "D": "2 kg·m/s", "answer": "B", "explanation": "p = mv = 2 × 3 = 6 kg·m/s."},
+
+{"question": "A metallic wire has length L and cross-sectional area A. Its resistance R is proportional to:", "A": "A/L", "B": "L/A", "C": "L×A", "D": "1/(L×A)", "answer": "B", "explanation": "R = ρ L/A → directly proportional to L, inversely to A."},
+
+{"question": "The potential difference across a 5 Ω resistor carrying 2 A is:", "A": "5 V", "B": "10 V", "C": "15 V", "D": "20 V", "answer": "B", "explanation": "V = IR = 2 × 5 = 10 V."},
+
+{"question": "Which law explains why we feel weightlessness in free fall?", "A": "Newton’s first law", "B": "Newton’s second law", "C": "Newton’s third law", "D": "Law of gravitation", "answer": "A", "explanation": "In free fall, no contact force acts → objects obey first law (inertia)."}, 
+
+{"question": "Which of the following is a unit of energy?", "A": "N", "B": "J", "C": "Pa", "D": "W", "answer": "B", "explanation": "Energy is measured in Joules (J)."}, 
+
+{"question": "The law that states pressure × volume = constant (at constant temperature) is:", "A": "Charles’ law", "B": "Boyle’s law", "C": "Gay-Lussac law", "D": "Hooke’s law", "answer": "B", "explanation": "Boyle’s law: PV = constant at constant temperature."},
+
+{"question": "If a body falls freely from height h, its velocity just before hitting the ground is:", "A": "√(2gh)", "B": "gh", "C": "2gh", "D": "gh²", "answer": "A", "explanation": "v = √(2gh) from v² = u² + 2gh, u = 0."},
+
+{"question": "A current of 2 A flows through a wire for 5 s. Find the charge that passes through.", "A": "5 C", "B": "10 C", "C": "2.5 C", "D": "1 C", "answer": "B", "explanation": "Q = I × t = 2 × 5 = 10 C."},
+
+{"question": "The S.I unit of electric charge is:", "A": "V", "B": "A", "C": "C", "D": "Ω", "answer": "C", "explanation": "Charge Q is measured in Coulombs (C)."}    ],
     "2022": [
       {"id": 1, "question": "The rate of change of momentum is proportional to:", "A": "Velocity", "B": "Displacement", "C": "Applied Force", "D": "Acceleration", "answer": "C", "explanation": "This is Newton's Second Law of Motion."},
       {"id": 2, "question": "Calculate the potential energy of a 2kg block at a height of 5m. (g = 10 m/s^2)", "A": "10 J", "B": "100 J", "C": "50 J", "D": "20 J", "answer": "B", "explanation": "P.E = mgh = 2 * 10 * 5 = 100J."},
