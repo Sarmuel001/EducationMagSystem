@@ -110,7 +110,7 @@ const ExamPage = () => {
   ================================ */
   useEffect(() => {
     if (!localStorage.getItem(timerKey)) {
-      const end = Date.now() + 40 * 60 * 1000; // 40 minutes
+      const end = Date.now() + 2 * 60 * 60 * 1000; // 40 minutes
       localStorage.setItem(timerKey, end);
     }
 
