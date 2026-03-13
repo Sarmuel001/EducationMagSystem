@@ -1,66 +1,68 @@
 {
   "English": {
     "2021": [
-      {"question": "PASSAGE: The environment is everything around us. However, the rapid pace of industrialization has led to massive pollution. Carbon emissions from factories and vehicles have depleted the ozone layer, leading to global warming. If we do not plant more trees and reduce plastic waste, the Earth may become uninhabitable for future generations.\n\n1. According to the passage, what is a major cause of global warming?", "A": "Planting trees", "B": "Carbon emissions", "C": "Plastic waste", "D": "Inhabitable Earth", "answer": "B", "explanation": "The passage states that carbon emissions lead to global warming."},
-      {"question": "[Refer to the passage in Q1] What does the author suggest as a solution to environmental degradation?", "A": "Industrialization", "B": "Building more factories", "C": "Planting more trees", "D": "Increasing plastic use", "answer": "C", "explanation": "The author suggests planting trees and reducing plastic waste."},
-      {"question": "[Refer to the passage in Q1] The word 'depleted' as used in the passage means:", "A": "Increased", "B": "Reduced", "C": "Fixed", "D": "Cleaned", "answer": "B", "explanation": "To deplete means to diminish or reduce in number/quantity."},
-      {"question": "[Refer to the passage in Q1] What is the tone of the author?", "A": "Cheerful", "B": "Indifferent", "C": "Concerned", "D": "Sarcastic", "answer": "C", "explanation": "The author is worried about the Earth becoming uninhabitable."},
-      {"question": "[Refer to the passage in Q1] A suitable title for this passage would be:", "A": "The History of Industry", "B": "The Dangers of Pollution", "C": "Plastic and its uses", "D": "The Ozone Layer", "answer": "B", "explanation": "The passage focuses on pollution and its environmental impacts."},
-    {"question": "Who is the headmaster of Stardom Schools in the novel?", "A": "Mr. Adewale Bepo", "B": "Mr. Kayode", "C": "Mr. Adebayo", "D": "Mr. Bello", "answer": "A", "explanation": "Mr. Adewale Bepo is the central character and the headmaster of Stardom Schools."},
-
-{"question": "The major setting of the novel is", "A": "Ibadan", "B": "Lekki", "C": "Abuja", "D": "Kano", "answer": "B", "explanation": "Most of the events of the story take place in Lekki."},
-
-{"question": "Stardom Schools is best described as a", "A": "government school", "B": "missionary school", "C": "private school", "D": "community school", "answer": "C", "explanation": "The novel portrays Stardom Schools as a privately owned institution."},
-
-{"question": "Mr. Bepo’s determination to improve the school mainly reflects the theme of", "A": "revenge", "B": "leadership and reform", "C": "romance", "D": "migration", "answer": "B", "explanation": "His actions emphasize responsible leadership and educational reform."},
-
-{"question": "The major challenge faced by Stardom Schools relates to", "A": "lack of teachers", "B": "financial and administrative problems", "C": "student violence", "D": "government closure", "answer": "B", "explanation": "The school struggles mainly with management and financial difficulties."},
-
-{"question": "Mr. Bepo’s leadership is admired because he", "A": "seeks popularity", "B": "encourages corruption", "C": "maintains integrity", "D": "avoids discipline", "answer": "C", "explanation": "His principled leadership makes him stand out in the school."},
-
-{"question": "The resistance Mr. Bepo faces from some staff symbolizes", "A": "fear of change", "B": "lack of intelligence", "C": "student rebellion", "D": "parental neglect", "answer": "A", "explanation": "Many people resist his reforms because they are afraid of change."},
-
-{"question": "The novel mainly criticizes", "A": "urban culture", "B": "poor leadership and corruption", "C": "modern technology", "D": "foreign education", "answer": "B", "explanation": "The story highlights corruption and poor management in institutions."},
-
-{"question": "The setting of Lekki in the novel helps to highlight", "A": "rural farming life", "B": "urban educational challenges", "C": "ancient traditions", "D": "military conflicts", "answer": "B", "explanation": "Lekki represents an urban environment with modern pressures."},
-      {"question": "Choose the word that is nearest in meaning to 'generous'.", "A": "selfish", "B": "kind", "C": "stingy", "D": "wicked", "answer": "B", "explanation": "Generous means willing to give or share, which is closest to kind."},
-
-{"question": "Choose the correct option to fill the blank: She has been waiting here ___ two hours.", "A": "since", "B": "for", "C": "during", "D": "from", "answer": "B", "explanation": "'For' is used with a duration of time such as two hours."},
-
-{"question": "Choose the word opposite in meaning to 'scarce'.", "A": "rare", "B": "plenty", "C": "abundant", "D": "little", "answer": "C", "explanation": "Scarce means not enough, while abundant means plentiful."},
-
-{"question": "Select the correct sentence.", "A": "She don't like rice.", "B": "She doesn't likes rice.", "C": "She doesn't like rice.", "D": "She not like rice.", "answer": "C", "explanation": "The correct negative form with 'she' is 'does not (doesn't) like'."},
-
-{"question": "Choose the word that best completes the sentence: The teacher insisted ___ punctuality.", "A": "in", "B": "on", "C": "at", "D": "for", "answer": "B", "explanation": "The correct collocation is 'insist on'."},
-
-{"question": "Identify the correctly spelt word.", "A": "accomodation", "B": "accommodation", "C": "acommodation", "D": "acomodation", "answer": "B", "explanation": "The correct spelling is accommodation."},
-
-{"question": "Choose the word that best completes the sentence: The boy was punished ___ coming late.", "A": "for", "B": "with", "C": "about", "D": "from", "answer": "A", "explanation": "The correct preposition used with punished is 'for'."},
-
-{"question": "Choose the correct indirect speech: He said, 'I am tired.'", "A": "He said that he was tired.", "B": "He says he is tired.", "C": "He said that I am tired.", "D": "He said that he is tired.", "answer": "A", "explanation": "In reported speech, present tense 'am' changes to past tense 'was'."},
-
-{"question": "Choose the word that best completes the sentence: If I ___ you, I would apologize.", "A": "was", "B": "were", "C": "am", "D": "be", "answer": "B", "explanation": "In conditional sentences, 'were' is used instead of 'was'."},
-
-{"question": "Choose the correct meaning of the idiom 'once in a blue moon'.", "A": "very frequently", "B": "every day", "C": "rarely", "D": "twice a day", "answer": "C", "explanation": "The idiom 'once in a blue moon' means something that happens very rarely."},
-
-
-{"question": "Mr. Bepo’s strict discipline policy aims to", "A": "punish students unfairly", "B": "improve academic standards", "C": "reduce enrollment", "D": "please parents", "answer": "B", "explanation": "Discipline is used to raise the school’s academic performance."},
-      {"question": "Choose the option nearest in meaning: The girl's story was **credible**.", "A": "False", "B": "Believable", "C": "Long", "D": "Sad", "answer": "B", "explanation": "Credible means able to be believed."},
-      {"question": "Choose the option opposite in meaning: The room was **filthy**.", "A": "Dirty", "B": "Large", "C": "Spotless", "D": "Dark", "answer": "C", "explanation": "Spotless is the opposite of filthy (very dirty)."},
-      {"question": "Neither the driver nor the passengers ________ injured.", "A": "was", "B": "were", "C": "is", "D": "have", "answer": "B", "explanation": "With 'neither/nor', the verb agrees with the closer subject (passengers)."},
-      {"question": "Choose the word with the same vowel sound as 'c**au**ght'.", "A": "Port", "B": "Cot", "C": "But", "D": "Cat", "answer": "A", "explanation": "Both 'caught' and 'port' use the /ɔː/ sound."},
-      {"question": "He has been in this school ________ five years.", "A": "since", "B": "for", "C": "during", "D": "from", "answer": "B", "explanation": "'For' is used for duration of time."},
-      {"question": "Stress pattern for **PHOTOGRAPHY**.", "A": "PHO-tography", "B": "pho-TO-graphy", "C": "photog-RA-phy", "D": "photogra-PHY", "answer": "B", "explanation": "The stress is on the second syllable."},
-      {"question": "The boy as well as his sisters ________ going to the party.", "A": "are", "B": "is", "C": "were", "D": "have been", "answer": "B", "explanation": "'As well as' does not change the singular nature of the main subject (boy)."},
-      {"question": "Interpretation: *I'm feeling under the weather.*", "A": "I like the rain", "B": "I am feeling sick", "C": "I am standing outside", "D": "I am very happy", "answer": "B", "explanation": "Under the weather is an idiom for feeling ill."},
-      {"question": "Choose the word with a different consonant sound.", "A": "Think", "B": "Thin", "C": "This", "D": "Thank", "answer": "C", "explanation": "'This' uses the voiced /ð/ sound; others use the voiceless /θ/."},
-      {"question": "If I ________ a bird, I would fly away.", "A": "am", "B": "was", "C": "were", "D": "be", "answer": "C", "explanation": "Subjunctive mood for unreal situations uses 'were'."},
-      {"question": "The police ________ investigating the case.", "A": "is", "B": "are", "C": "was", "D": "has been", "answer": "B", "explanation": "'Police' is a plural noun and takes a plural verb."},
-      {"question": "Nearest in meaning: His **meticulous** approach saved the project.", "A": "Careless", "B": "Fast", "C": "Careful", "D": "Lazy", "answer": "C", "explanation": "Meticulous means showing great attention to detail."},
-      {"question": "Same stress pattern as **FATHER**.", "A": "Above", "B": "Paper", "C": "Believe", "D": "Attend", "answer": "B", "explanation": "Both are stressed on the first syllable."},
-      {"question": "They arrived late, ________?", "A": "didn't they", "B": "did they", "C": "haven't they", "D": "don't they", "answer": "A", "explanation": "Positive past tense statement takes 'didn't' in the tag."},
-      {"question": "Identify the silent letter in **Salmon**.", "A": "S", "B": "a", "C": "l", "D": "m", "answer": "C", "explanation": "The 'l' is silent in 'salmon'."}
+     {"question":"PASSAGE: The environment includes everything around us. However, rapid industrialization has caused serious pollution. Carbon emissions from factories and vehicles damage the ozone layer and contribute to global warming. If we do not plant more trees and reduce plastic waste, the Earth may become unsafe for future generations.\n\nAccording to the passage, what is a major cause of global warming?","A":"Planting trees","B":"Carbon emissions","C":"Plastic waste","D":"Ocean water","answer":"B","explanation":"The passage states that carbon emissions contribute to global warming."},
+{"question":"[Refer to the passage above] What solution does the author suggest?","A":"Increase plastic use","B":"Build more factories","C":"Plant more trees","D":"Cut more forests","answer":"C","explanation":"The passage recommends planting more trees and reducing plastic waste."},
+{"question":"[Refer to the passage above] The word 'depleted' most nearly means","A":"Increased","B":"Reduced","C":"Improved","D":"Repaired","answer":"B","explanation":"Depleted means reduced or diminished."},
+{"question":"[Refer to the passage above] The tone of the author can best be described as","A":"Cheerful","B":"Concerned","C":"Indifferent","D":"Humorous","answer":"B","explanation":"The author expresses concern about environmental damage."},
+{"question":"[Refer to the passage above] A suitable title for the passage is","A":"The Dangers of Pollution","B":"Industrial Growth","C":"Plastic Production","D":"Ocean Pollution","answer":"A","explanation":"The passage mainly discusses pollution and its effects."},
+{"question":"[LEKKI HEADMASTER] Who is the headmaster of Stardom Schools in the novel?","A":"Mr. Adewale Bepo","B":"Mr. Kayode","C":"Mr. Bello","D":"Mr. Adebayo","answer":"A","explanation":"Mr. Adewale Bepo is the headmaster and main character."},
+{"question":"[LEKKI HEADMASTER] The major setting of the novel is","A":"Ibadan","B":"Lekki","C":"Kano","D":"Abuja","answer":"B","explanation":"Most events occur in Lekki."},
+{"question":"[LEKKI HEADMASTER] Stardom Schools is best described as a","A":"Government school","B":"Mission school","C":"Private school","D":"Community school","answer":"C","explanation":"The school is privately owned."},
+{"question":"[LEKKI HEADMASTER] Mr. Bepo's effort to improve the school reflects the theme of","A":"Revenge","B":"Leadership and reform","C":"War","D":"Romance","answer":"B","explanation":"He shows leadership in improving the school."},
+{"question":"[LEKKI HEADMASTER] The major challenge faced by Stardom Schools relates to","A":"Student rebellion","B":"Financial and administrative problems","C":"Government ban","D":"Teacher strike","answer":"B","explanation":"The school struggles with management and finances."},
+{"question":"Choose the word nearest in meaning to 'generous'.","A":"Kind","B":"Selfish","C":"Stingy","D":"Cruel","answer":"A","explanation":"Generous is close in meaning to kind."},
+{"question":"Choose the correct option: She has been waiting here ___ two hours.","A":"since","B":"for","C":"during","D":"from","answer":"B","explanation":"'For' is used with a period of time."},
+{"question":"Choose the opposite in meaning of 'scarce'.","A":"Rare","B":"Little","C":"Abundant","D":"Few","answer":"C","explanation":"Abundant means plentiful."},
+{"question":"Select the correct sentence.","A":"She don't like rice.","B":"She doesn't likes rice.","C":"She doesn't like rice.","D":"She not like rice.","answer":"C","explanation":"Correct grammar uses 'doesn't like'."},
+{"question":"Choose the correct preposition: The teacher insisted ___ punctuality.","A":"in","B":"on","C":"at","D":"for","answer":"B","explanation":"The correct expression is 'insist on'."},
+{"question":"Identify the correctly spelt word.","A":"accomodation","B":"accommodation","C":"acommodation","D":"acomodation","answer":"B","explanation":"Accommodation is the correct spelling."},
+{"question":"Choose the correct word: The boy was punished ___ coming late.","A":"for","B":"with","C":"about","D":"from","answer":"A","explanation":"'Punished for' is correct."},
+{"question":"Choose the correct indirect speech: He said, 'I am tired.'","A":"He said that he was tired.","B":"He says he is tired.","C":"He said that I am tired.","D":"He said that he is tired.","answer":"A","explanation":"Present tense changes to past in reported speech."},
+{"question":"Choose the correct option: If I ___ you, I would apologize.","A":"was","B":"were","C":"am","D":"be","answer":"B","explanation":"'Were' is used in conditional sentences."},
+{"question":"Choose the meaning of the idiom 'once in a blue moon'.","A":"Very often","B":"Rarely","C":"Daily","D":"Twice a day","answer":"B","explanation":"It means something that happens very rarely."},
+{"question":"Choose the option nearest in meaning to 'credible'.","A":"False","B":"Believable","C":"Weak","D":"Funny","answer":"B","explanation":"Credible means believable."},
+{"question":"Choose the opposite in meaning to 'filthy'.","A":"Dirty","B":"Dark","C":"Spotless","D":"Large","answer":"C","explanation":"Spotless means very clean."},
+{"question":"Neither the driver nor the passengers ___ injured.","A":"was","B":"were","C":"is","D":"has","answer":"B","explanation":"Verb agrees with the nearer subject 'passengers'."},
+{"question":"Choose the word with the same vowel sound as 'caught'.","A":"Port","B":"Cat","C":"But","D":"Cot","answer":"A","explanation":"'Port' has the same /ɔː/ sound."},
+{"question":"He has been in this school ___ five years.","A":"since","B":"for","C":"during","D":"from","answer":"B","explanation":"'For' indicates duration."},
+{"question":"Stress pattern for PHOTOGRAPHY.","A":"PHO-tography","B":"pho-TO-graphy","C":"photo-GRA-phy","D":"photogra-PHY","answer":"B","explanation":"Stress falls on the second syllable."},
+{"question":"The boy as well as his sisters ___ going to the party.","A":"are","B":"is","C":"were","D":"have been","answer":"B","explanation":"The subject 'boy' is singular."},
+{"question":"Interpretation: I'm feeling under the weather.","A":"I am happy","B":"I am sick","C":"I am outside","D":"I am excited","answer":"B","explanation":"It means feeling ill."},
+{"question":"Choose the word with a different consonant sound.","A":"Think","B":"Thin","C":"This","D":"Thank","answer":"C","explanation":"'This' uses voiced /ð/."},
+{"question":"If I ___ a bird, I would fly away.","A":"am","B":"was","C":"were","D":"be","answer":"C","explanation":"Subjunctive mood uses 'were'."},
+{"question":"The police ___ investigating the case.","A":"is","B":"are","C":"was","D":"has been","answer":"B","explanation":"'Police' takes a plural verb."},
+{"question":"Nearest in meaning: meticulous.","A":"Careless","B":"Fast","C":"Careful","D":"Weak","answer":"C","explanation":"Meticulous means very careful."},
+{"question":"Same stress pattern as FATHER.","A":"Above","B":"Paper","C":"Attend","D":"Believe","answer":"B","explanation":"Both stress the first syllable."},
+{"question":"They arrived late, ___?","A":"didn't they","B":"did they","C":"haven't they","D":"don't they","answer":"A","explanation":"Positive statement takes negative tag."},
+{"question":"Identify the silent letter in 'salmon'.","A":"s","B":"a","C":"l","D":"m","answer":"C","explanation":"'l' is silent."},
+{"question":"Choose the correct word: The meeting was ___ postponed.","A":"temporarily","B":"temporary","C":"temporal","D":"tempered","answer":"A","explanation":"Adverb modifies postponed."},
+{"question":"Choose the correct sentence.","A":"Each of the boys have a pen.","B":"Each of the boys has a pen.","C":"Each of the boys have pens.","D":"Each boys has a pen.","answer":"B","explanation":"'Each' takes singular verb."},
+{"question":"The synonym of 'rapid' is","A":"Slow","B":"Quick","C":"Weak","D":"Late","answer":"B","explanation":"Rapid means fast."},
+{"question":"Choose the correct word: She is afraid ___ snakes.","A":"for","B":"of","C":"with","D":"at","answer":"B","explanation":"'Afraid of' is correct usage."},
+{"question":"Choose the correct option: Hardly had he arrived ___ the rain started.","A":"than","B":"when","C":"then","D":"that","answer":"B","explanation":"'Hardly...when' is correct structure."},
+{"question":"[LEKKI HEADMASTER] Mr. Bepo is respected by many teachers because he","A":"encourages corruption","B":"maintains integrity","C":"avoids responsibility","D":"ignores students","answer":"B","explanation":"Mr. Bepo is admired for his honesty and integrity."},
+{"question":"[LEKKI HEADMASTER] Resistance from some staff against Mr. Bepo’s reforms mainly shows","A":"fear of change","B":"lack of intelligence","C":"student rebellion","D":"parental neglect","answer":"A","explanation":"Many staff members fear the changes he wants to introduce."},
+{"question":"[LEKKI HEADMASTER] The novel mainly criticizes","A":"urban culture","B":"poor leadership and corruption","C":"technology","D":"foreign education","answer":"B","explanation":"The novel highlights corruption and poor management in institutions."},
+{"question":"[LEKKI HEADMASTER] The setting of Lekki helps to emphasize","A":"rural farming life","B":"urban educational challenges","C":"traditional worship","D":"military conflicts","answer":"B","explanation":"Lekki represents an urban environment with modern pressures."},
+{"question":"[LEKKI HEADMASTER] Mr. Bepo’s strict discipline policy aims to","A":"punish students unfairly","B":"improve academic standards","C":"reduce enrollment","D":"please parents","answer":"B","explanation":"The discipline is meant to improve academic performance."},
+{"question":"Choose the word nearest in meaning to 'brilliant'.","A":"Dull","B":"Intelligent","C":"Slow","D":"Weak","answer":"B","explanation":"Brilliant means very intelligent."},
+{"question":"Choose the correct option: She prefers tea ___ coffee.","A":"than","B":"to","C":"over","D":"with","answer":"B","explanation":"The correct expression is 'prefer...to'."},
+{"question":"Choose the opposite of 'ancient'.","A":"Old","B":"Modern","C":"Historic","D":"Past","answer":"B","explanation":"Modern is the opposite of ancient."},
+{"question":"Select the correct sentence.","A":"The informations are correct.","B":"The information are correct.","C":"The information is correct.","D":"The informations is correct.","answer":"C","explanation":"'Information' is an uncountable noun and takes a singular verb."},
+{"question":"Choose the correct preposition: He apologized ___ the mistake.","A":"for","B":"about","C":"to","D":"with","answer":"A","explanation":"The correct expression is 'apologize for'."},
+{"question":"Choose the correctly spelt word.","A":"definately","B":"definitely","C":"definatly","D":"defenetly","answer":"B","explanation":"Definitely is the correct spelling."},
+{"question":"Choose the correct indirect speech: She said, 'I will come tomorrow.'","A":"She said she will come tomorrow.","B":"She said she would come the next day.","C":"She says she would come tomorrow.","D":"She said she comes tomorrow.","answer":"B","explanation":"Future 'will' changes to 'would' and 'tomorrow' becomes 'the next day'."},
+{"question":"Choose the correct option: If he ___ harder, he would pass the exam.","A":"study","B":"studies","C":"studied","D":"studying","answer":"C","explanation":"Second conditional uses past tense in the if-clause."},
+{"question":"Choose the meaning of the idiom 'spill the beans'.","A":"Cook food","B":"Reveal a secret","C":"Make a mess","D":"Plant seeds","answer":"B","explanation":"'Spill the beans' means reveal a secret."},
+{"question":"Choose the word with the same vowel sound as 'seat'.","A":"Sit","B":"Set","C":"Beat","D":"Sat","answer":"C","explanation":"'Seat' and 'beat' share the long /iː/ sound."},
+{"question":"The committee ___ decided to postpone the meeting.","A":"have","B":"has","C":"were","D":"are","answer":"B","explanation":"'Committee' is treated as a singular collective noun here."},
+{"question":"Nearest in meaning: The manager was **reluctant** to approve the request.","A":"Willing","B":"Uncertain","C":"Unwilling","D":"Happy","answer":"C","explanation":"Reluctant means unwilling or hesitant."},
+{"question":"Choose the correct question tag: She can drive, ___?","A":"can't she","B":"can she","C":"doesn't she","D":"isn't she","answer":"A","explanation":"Positive statement takes a negative tag."},
+{"question":"Identify the silent letter in 'honest'.","A":"h","B":"o","C":"n","D":"t","answer":"A","explanation":"The 'h' in honest is silent."},
+{"question":"Choose the correct option: No sooner had he arrived ___ the meeting started.","A":"when","B":"than","C":"then","D":"that","answer":"B","explanation":"The correct structure is 'No sooner...than'."}
     ],
+    
     "2022": [
       {"question": "PASSAGE: Digital literacy is no longer an option; it is a necessity. As the world moves toward a global economy driven by technology, those without computer skills will be left behind. Education systems must integrate coding and data analysis into the curriculum to prepare students for the future workforce.\n\n1. What is the central theme of the passage?", "A": "The history of computers", "B": "The importance of digital literacy", "C": "Coding languages", "D": "The global economy", "answer": "B", "explanation": "The passage highlights why digital skills are necessary."},
       {"question": "[Refer to the passage in Q1] According to the author, what should schools do?", "A": "Buy more books", "B": "Ignore technology", "C": "Integrate coding into the curriculum", "D": "Focus only on math", "answer": "C", "explanation": "The passage explicitly mentions integrating coding and data analysis."},
