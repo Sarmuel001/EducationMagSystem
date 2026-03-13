@@ -1,70 +1,46 @@
 {
   "Chemistry": {
     "2021": [
-  
-{"question": "Which of the following is a noble gas?", "A": "O₂", "B": "N₂", "C": "Ne", "D": "Cl₂", "answer": "C", "explanation": "Neon (Ne) is a noble gas with complete outer electron shell."},
-
+  {"question": "Which of the following is a noble gas?", "A": "O₂", "B": "N₂", "C": "Ne", "D": "Cl₂", "answer": "C", "explanation": "Neon (Ne) is a noble gas with complete outer electron shell."},
 {"question": "What is the molar mass of H₂SO₄?", "A": "98 g/mol", "B": "100 g/mol", "C": "96 g/mol", "D": "102 g/mol", "answer": "A", "explanation": "H₂SO₄ = 2(1) + 32 + 4(16) = 98 g/mol."},
-
 {"question": "Which of the following is an exothermic reaction?", "A": "Photosynthesis", "B": "Combustion of methane", "C": "Electrolysis of water", "D": "Dissolving NH₄Cl in water", "answer": "B", "explanation": "Combustion releases heat energy, making it exothermic."},
-
-{"question": "Which of these is an alkali metal?", "A": "Mg", "B": "K", "C": "Al", "D": "Ca", "answer": "B", "explanation": "Potassium (K) is in Group 1 (alkali metals)."}, 
-
+{"question": "Which of these is an alkali metal?", "A": "Mg", "B": "K", "C": "Al", "D": "Ca", "answer": "B", "explanation": "Potassium (K) is in Group 1 (alkali metals)."},
 {"question": "The pH of a neutral solution at 25°C is:", "A": "0", "B": "7", "C": "14", "D": "1", "answer": "B", "explanation": "Neutral water has pH = 7 at 25°C."},
-
 {"question": "Which of these compounds is covalent?", "A": "NaCl", "B": "H₂O", "C": "CaO", "D": "KBr", "answer": "B", "explanation": "Water (H₂O) is made of shared electrons between H and O (covalent bond)."},
-
 {"question": "The empirical formula of glucose C₆H₁₂O₆ is:", "A": "CH₂O", "B": "C₃H₆O₃", "C": "C₆H₁₂O₆", "D": "CH₃O", "answer": "A", "explanation": "Divide all subscripts by 6: C₆H₁₂O₆ → CH₂O."},
-
 {"question": "What type of reaction is Zn + 2HCl → ZnCl₂ + H₂?", "A": "Displacement", "B": "Combination", "C": "Decomposition", "D": "Redox", "answer": "A", "explanation": "Zinc displaces hydrogen from HCl, so it's a displacement reaction."},
-
 {"question": "Which of the following is an amphoteric oxide?", "A": "Na₂O", "B": "Al₂O₃", "C": "SO₃", "D": "CO₂", "answer": "B", "explanation": "Aluminium oxide reacts with both acids and bases."},
-
 {"question": "Which gas is collected by upward delivery?", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "NH₃", "answer": "D", "explanation": "Ammonia is less dense than air, so it is collected by upward delivery."},
-
-{"question": "The oxidation number of sulfur in H₂SO₄ is:", "A": "+4", "B": "+6", "C": "+2", "D": "+1", "answer": "B", "explanation": "Let x = oxidation number of S: 2(+1) + x + 4(-2) = 0 ⇒ x = +6."},
-
-{"question": "Which of the following is a strong acid?", "A": "HCl", "B": "CH₃COOH", "C": "H₂CO₃", "D": "HF", "answer": "A", "explanation": "HCl dissociates completely in water, making it a strong acid."},
-
-{"question": "Which element has the highest electronegativity?", "A": "F", "B": "O", "C": "N", "D": "Cl", "answer": "A", "explanation": "Fluorine has the highest electronegativity in the periodic table."},
-
+{"question": "The oxidation number of sulfur in H₂SO₄ is:", "A": "+4", "B": "+6", "C": "+2", "D": "+1", "answer": "B", "explanation": "2(+1) + x + 4(-2) = 0 ⇒ x = +6."},
+{"question": "Which of the following is a strong acid?", "A": "HCl", "B": "CH₃COOH", "C": "H₂CO₃", "D": "HF", "answer": "A", "explanation": "HCl dissociates completely in water."},
+{"question": "Which element has the highest electronegativity?", "A": "F", "B": "O", "C": "N", "D": "Cl", "answer": "A", "explanation": "Fluorine has the highest electronegativity."},
 {"question": "The gas produced when Zn reacts with HCl is:", "A": "O₂", "B": "H₂", "C": "Cl₂", "D": "CO₂", "answer": "B", "explanation": "Zn + 2HCl → ZnCl₂ + H₂; hydrogen gas is evolved."},
-
-{"question": "Which of these is a reducing sugar?", "A": "Glucose", "B": "Sucrose", "C": "Starch", "D": "Cellulose", "answer": "A", "explanation": "Glucose can reduce Fehling's solution, making it a reducing sugar."},
-
-{"question": "The gas that turns lime water milky is:", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "N₂", "answer": "B", "explanation": "CO₂ reacts with Ca(OH)₂ to form CaCO₃ (white precipitate)."}, 
-
-{"question": "Which of the following is a diatomic molecule?", "A": "CO₂", "B": "O₂", "C": "CH₄", "D": "NaCl", "answer": "B", "explanation": "Oxygen exists as O₂ naturally (diatomic)."}, 
-
-{"question": "What volume of H₂ gas (at STP) is produced when 4 g of Zn reacts with excess HCl?", "A": "0.5 dm³", "B": "1 dm³", "C": "1.12 dm³", "D": "2 dm³", "answer": "C", "explanation": "Zn + 2HCl → ZnCl₂ + H₂. Moles of Zn = 4/65 ≈ 0.0615. At STP, 1 mol gas = 22.4 dm³ → V = 0.0615 × 22.4 ≈ 1.38 dm³."},
-
-{"question": "Which substance is used as a primary standard in acid-base titration?", "A": "NaOH", "B": "HCl", "C": "KHP (Potassium hydrogen phthalate)", "D": "NH₃", "answer": "C", "explanation": "KHP is pure, stable, and can be weighed accurately."},
-
-{"question": "Which of these is a halogen?", "A": "Na", "B": "F", "C": "O", "D": "H", "answer": "B", "explanation": "Fluorine (F) is a Group 17 halogen."},
-
-{"question": "The process of converting a liquid to vapor is:", "A": "Condensation", "B": "Evaporation", "C": "Sublimation", "D": "Freezing", "answer": "B", "explanation": "Evaporation is liquid → vapor."},
-
-{"question": "Which of these compounds is ionic?", "A": "NaCl", "B": "CO₂", "C": "H₂O", "D": "CH₄", "answer": "A", "explanation": "NaCl consists of Na⁺ and Cl⁻ ions."},
-
-{"question": "Which of the following is a strong base?", "A": "NH₄OH", "B": "NaOH", "C": "CH₃NH₂", "D": "Al(OH)₃", "answer": "B", "explanation": "NaOH dissociates completely in water."},
-
-{"question": "Which element is liquid at room temperature?", "A": "Bromine (Br₂)", "B": "Chlorine (Cl₂)", "C": "Fluorine (F₂)", "D": "Iodine (I₂)", "answer": "A", "explanation": "Bromine is a reddish-brown liquid at 25°C."},
-
-{"question": "Which type of bond is present in HCl?", "A": "Covalent", "B": "Ionic", "C": "Metallic", "D": "Hydrogen", "answer": "A", "explanation": "HCl shares electrons between H and Cl → covalent bond."},
-
-{"question": "Which process separates a mixture of sand and salt?", "A": "Filtration", "B": "Distillation", "C": "Evaporation", "D": "Chromatography", "answer": "C", "explanation": "Salt dissolves in water; sand does not. Evaporating water leaves salt."},
-
+{"question": "Which of these is a reducing sugar?", "A": "Glucose", "B": "Sucrose", "C": "Starch", "D": "Cellulose", "answer": "A", "explanation": "Glucose can reduce Fehling's solution."},
+{"question": "The gas that turns lime water milky is:", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "N₂", "answer": "B", "explanation": "CO₂ reacts with Ca(OH)₂ to form CaCO₃."},
+{"question": "Which of the following is a diatomic molecule?", "A": "CO₂", "B": "O₂", "C": "CH₄", "D": "NaCl", "answer": "B", "explanation": "Oxygen naturally exists as O₂."},
+{"question": "Which substance is used as a primary standard in acid-base titration?", "A": "NaOH", "B": "HCl", "C": "KHP", "D": "NH₃", "answer": "C", "explanation": "KHP is pure and stable."},
+{"question": "Which of these is a halogen?", "A": "Na", "B": "F", "C": "O", "D": "H", "answer": "B", "explanation": "Fluorine belongs to Group 17."},
+{"question": "The process of converting a liquid to vapor is:", "A": "Condensation", "B": "Evaporation", "C": "Sublimation", "D": "Freezing", "answer": "B", "explanation": "Evaporation is liquid to vapor."},
+{"question": "Which of these compounds is ionic?", "A": "NaCl", "B": "CO₂", "C": "H₂O", "D": "CH₄", "answer": "A", "explanation": "NaCl forms Na⁺ and Cl⁻ ions."},
+{"question": "Which of the following is a strong base?", "A": "NH₄OH", "B": "NaOH", "C": "CH₃NH₂", "D": "Al(OH)₃", "answer": "B", "explanation": "NaOH dissociates completely."},
+{"question": "Which element is liquid at room temperature?", "A": "Bromine", "B": "Chlorine", "C": "Fluorine", "D": "Iodine", "answer": "A", "explanation": "Bromine is liquid at room temperature."},
+{"question": "Which type of bond is present in HCl?", "A": "Covalent", "B": "Ionic", "C": "Metallic", "D": "Hydrogen", "answer": "A", "explanation": "HCl has a covalent bond."},
+{"question": "Which process separates a mixture of sand and salt?", "A": "Filtration", "B": "Distillation", "C": "Evaporation", "D": "Chromatography", "answer": "C", "explanation": "Salt solution is evaporated to obtain salt."},
 {"question": "Which element has atomic number 8?", "A": "Nitrogen", "B": "Oxygen", "C": "Fluorine", "D": "Carbon", "answer": "B", "explanation": "Oxygen has atomic number 8."},
-
-{"question": "Which of the following reacts with water to produce H₂ gas?", "A": "Na", "B": "Mg", "C": "Fe", "D": "Cu", "answer": "A", "explanation": "Sodium reacts vigorously with water to give hydrogen."},
-
-{"question": "The formula of bleaching powder is:", "A": "CaOCl₂", "B": "Ca(ClO)₂", "C": "CaCl₂", "D": "Cl₂", "answer": "B", "explanation": "Bleaching powder = Calcium hypochlorite, Ca(ClO)₂."},
-
-{"question": "Which of these metals is extracted by electrolysis?", "A": "Iron", "B": "Aluminium", "C": "Zinc", "D": "Tin", "answer": "B", "explanation": "Aluminium is extracted from Al₂O₃ by electrolysis."},
-
-{"question": "Which gas is given off when acids react with carbonates?", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "Cl₂", "answer": "B", "explanation": "Acid + carbonate → CO₂ gas evolves."},
-
-{"question": "Which of the following is a saturated hydrocarbon?", "A": "CH₄", "B": "C₂H₄", "C": "C₂H₂", "D": "C₃H₆", "answer": "A", "explanation": "CH₄ contains only single bonds → saturated hydrocarbon."}
+{"question": "Which of the following reacts with water to produce H₂ gas?", "A": "Na", "B": "Mg", "C": "Fe", "D": "Cu", "answer": "A", "explanation": "Sodium reacts vigorously with water."},
+{"question": "The formula of bleaching powder is:", "A": "CaOCl₂", "B": "Ca(ClO)₂", "C": "CaCl₂", "D": "Cl₂", "answer": "B", "explanation": "Bleaching powder is calcium hypochlorite."},
+{"question": "Which of these metals is extracted by electrolysis?", "A": "Iron", "B": "Aluminium", "C": "Zinc", "D": "Tin", "answer": "B", "explanation": "Aluminium is extracted by electrolysis."},
+{"question": "Which gas is given off when acids react with carbonates?", "A": "O₂", "B": "CO₂", "C": "H₂", "D": "Cl₂", "answer": "B", "explanation": "Acid + carbonate releases CO₂."},
+{"question": "Which of the following is a saturated hydrocarbon?", "A": "CH₄", "B": "C₂H₄", "C": "C₂H₂", "D": "C₃H₆", "answer": "A", "explanation": "CH₄ has only single bonds."},
+{"question": "Which gas is responsible for acid rain?", "A": "CO₂", "B": "SO₂", "C": "O₂", "D": "H₂", "answer": "B", "explanation": "Sulfur dioxide forms sulfuric acid in rainwater."},
+{"question": "Which instrument is used to measure temperature in the laboratory?", "A": "Barometer", "B": "Thermometer", "C": "Hydrometer", "D": "Voltmeter", "answer": "B", "explanation": "A thermometer measures temperature."},
+{"question": "Which element is the main component of natural gas?", "A": "Ethane", "B": "Methane", "C": "Propane", "D": "Butane", "answer": "B", "explanation": "Natural gas mainly contains methane."},
+{"question": "Which of the following is used as a drying agent for ammonia gas?", "A": "Conc. H₂SO₄", "B": "Quicklime", "C": "CaCl₂", "D": "NaOH", "answer": "B", "explanation": "Quicklime dries ammonia without reacting with it."},
+{"question": "Which gas supports combustion?", "A": "Nitrogen", "B": "Oxygen", "C": "Carbon dioxide", "D": "Hydrogen", "answer": "B", "explanation": "Oxygen supports burning."},
+{"question": "Which metal is the best conductor of electricity?", "A": "Iron", "B": "Copper", "C": "Silver", "D": "Aluminium", "answer": "C", "explanation": "Silver has the highest conductivity."},
+{"question": "Which process converts solid directly to gas?", "A": "Condensation", "B": "Sublimation", "C": "Evaporation", "D": "Freezing", "answer": "B", "explanation": "Sublimation is solid directly to gas."},
+{"question": "Which element is used in making pencils?", "A": "Carbon", "B": "Silicon", "C": "Sulfur", "D": "Phosphorus", "answer": "A", "explanation": "Graphite (carbon) is used in pencils."},
+{"question": "Which gas is known as laughing gas?", "A": "NO₂", "B": "N₂O", "C": "NH₃", "D": "CO₂", "answer": "B", "explanation": "Nitrous oxide is called laughing gas."},
     ],
     "2022": [
       {"question": "CONTEXT: The diagram shows a titration setup where $0.1\\,mol/dm^3$ $NaOH$ is in the burette and $25\\,cm^3$ of $HCl$ is in the conical flask.\n\n1. What is the name of the apparatus held by the stand?", "A": "Pipette", "B": "Burette", "C": "Measuring cylinder", "D": "Retort flask", "answer": "B", "explanation": "A burette is used to deliver precise, variable volumes of liquid."},
