@@ -109,7 +109,7 @@
 {"question": "Choose the correct meaning of the idiom 'once in a blue moon'.", "A": "very frequently", "B": "every day", "C": "rarely", "D": "twice a day", "answer": "C", "explanation": "The idiom 'once in a blue moon' means something that happens very rarely."},
 
       {"question": "Choose the option opposite in meaning: The man is very **affluent**.", "A": "Wealthy", "B": "Healthy", "C": "Poor", "D": "Famous", "answer": "C", "explanation": "Affluent means rich; the opposite is poor."},
-      {"question": "One of the girls ________ lost her bag.", "A": "have", "B": "has", "0": "C. are", "D": "is", "answer": "B", "explanation": "'One of' takes a singular verb."},
+      {"question": "One of the girls ________ lost her bag.", "A": "have", "B": "has", "C": "are", "D": "is", "answer": "B", "explanation": "'One of' takes a singular verb."},
       {"question": "Choose the word that rhymes with 'S**ai**d'.", "A": "Paid", "B": "Bed", "C": "Made", "D": "Laid", "answer": "B", "explanation": "'Said' is pronounced /sed/, which rhymes with 'bed'."},
       {"question": "I would have come if you ________ me.", "A": "invite", "B": "invited", "C": "had invited", "D": "have invited", "answer": "C", "explanation": "Third conditional requires 'had + past participle'."},
       {"question": "Nearest in meaning: The child is **obstinate**.", "A": "Smart", "B": "Stubborn", "C": "Quiet", "D": "Happy", "answer": "B", "explanation": "Obstinate means refusing to change one's opinion; stubborn."},
